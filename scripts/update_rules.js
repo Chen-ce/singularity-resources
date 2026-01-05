@@ -6,7 +6,7 @@ const path = require('path');
 // 仓库配置
 const REPO = 'MetaCubeX/meta-rules-dat';
 const BRANCH = 'sing';
-const BASE_URL = `https://cdn.jsdelivr.net/gh/${REPO}@${BRANCH}`; // 去掉了后面的路径，因为后面要动态拼
+const BASE_URL = `https://cdn.jsdelivr.net/gh/${REPO}@${BRANCH}`; // 去掉后缀路径，后面用 file.path 拼
 
 const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
 const HEADERS = {
@@ -60,7 +60,7 @@ function buildRulesIndex(treeItems, prefix) {
         
         // 判断文件类型
         let fileType = '';
-        if (relPath.endsWith('.srs')) fileType = 'srs'; // 建议用 srs 而不是 sys
+        if (relPath.endsWith('.srs')) fileType = 'srs';
         else if (relPath.endsWith('.json')) fileType = 'json';
         else continue;
 
@@ -93,7 +93,7 @@ function buildRulesIndex(treeItems, prefix) {
 
         if (geoType) {
             record.files.push({
-                path: item.path, // 这里存完整路径: geo-lite/geoip/cn.srs
+                path: item.path, // 这里存完整路径: rules/geo-lite/geoip/cn.srs
                 fileType,
                 geoType
             });
@@ -113,6 +113,18 @@ function buildRulesIndex(treeItems, prefix) {
             files: record.files.sort((a, b) => a.path.localeCompare(b.path)) 
         }))
         .sort((a, b) => a.name.localeCompare(b.name));
+}
+
+function findRulesPrefix(treeItems, targetDir) {
+    const targetMarker = `${targetDir}/`;
+    const matcher = new RegExp(`(?:^|/)${targetDir}/(geoip|geosite)/.+\\.(srs|json)$`);
+    for (const item of treeItems) {
+        if (item.type !== 'blob') continue;
+        if (!matcher.test(item.path)) continue;
+        const index = item.path.lastIndexOf(targetMarker);
+        if (index >= 0) return item.path.slice(0, index) + targetMarker;
+    }
+    return '';
 }
 
 async function main() {
@@ -144,12 +156,12 @@ async function main() {
         const treeData = await fetchJson(treeUrl);
         if (!treeData || !Array.isArray(treeData.tree)) throw new Error('Rules tree fetch failed');
 
-        // 4. 🔥 分别生成 Lite 和 Full 索引
-        // geo-lite/ -> lite.json (手机端/轻量版)
-        const liteRules = buildRulesIndex(treeData.tree, 'geo-lite/');
-        
-        // geo/ -> full.json (全量版)
-        const fullRules = buildRulesIndex(treeData.tree, 'geo/');
+        // 4. 🔥 分别生成 Lite 和 Full 索引 (自动识别规则目录前缀)
+        const litePrefix = findRulesPrefix(treeData.tree, 'geo-lite');
+        const fullPrefix = findRulesPrefix(treeData.tree, 'geo');
+
+        const liteRules = litePrefix ? buildRulesIndex(treeData.tree, litePrefix) : [];
+        const fullRules = fullPrefix ? buildRulesIndex(treeData.tree, fullPrefix) : [];
 
         if (liteRules.length === 0 && fullRules.length === 0) {
             throw new Error('No rules found! Check path prefix.');
