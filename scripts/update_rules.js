@@ -138,24 +138,6 @@ function buildRulesIndex(treeItems, prefix) {
         .sort((a, b) => a.name.localeCompare(b.name));
 }
 
-// 自动寻找目录前缀 (这部分你的代码写得很好，保留)
-function findRulesPrefix(treeItems, targetDir) {
-    // 增加边界检查，防止正则报错
-    if (!treeItems || treeItems.length === 0) return '';
-    
-    const targetMarker = `${targetDir}/`;
-    // 正则匹配: 必须包含 geoip 或 geosite 且以 .srs 或 .json 结尾
-    const matcher = new RegExp(`(?:^|/)${targetDir}/(geoip|geosite)/.+\\.(srs|json)$`);
-    
-    for (const item of treeItems) {
-        if (item.type !== 'blob') continue;
-        if (!matcher.test(item.path)) continue;
-        const index = item.path.lastIndexOf(targetMarker);
-        if (index >= 0) return item.path.slice(0, index) + targetMarker;
-    }
-    return '';
-}
-
 async function main() {
     try {
         console.log(`🌍 开始处理规则: ${REPO}...`);
@@ -181,13 +163,19 @@ async function main() {
         }
 
         // 3. 拉取规则树 (带重试)
-        const treeUrl = `https://api.github.com/repos/${REPO}/git/trees/${BRANCH}?recursive=1`;
+        const treeSha = commitData.commit?.tree?.sha;
+        const treeUrl = treeSha
+            ? `https://api.github.com/repos/${REPO}/git/trees/${treeSha}?recursive=1`
+            : `https://api.github.com/repos/${REPO}/git/trees/${BRANCH}?recursive=1`;
         const treeData = await fetchJson(treeUrl);
         if (!treeData || !Array.isArray(treeData.tree)) throw new Error('Rules tree fetch failed after retries');
+        if (treeData.truncated) {
+            console.warn('⚠️ Tree response truncated; some rule files may be missing.');
+        }
 
         // 4. 生成 Lite 和 Full 索引
-        const litePrefix = findRulesPrefix(treeData.tree, 'geo-lite');
-        const fullPrefix = findRulesPrefix(treeData.tree, 'geo');
+        const litePrefix = 'geo-lite/';
+        const fullPrefix = 'geo/';
 
         // 增加日志方便调试
         console.log(`   Lite Prefix: "${litePrefix}"`);
