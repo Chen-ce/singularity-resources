@@ -162,27 +162,36 @@ async function main() {
             return;
         }
 
-        // 3. 拉取规则树 (带重试)
-        const treeSha = commitData.commit?.tree?.sha;
-        const treeUrl = treeSha
-            ? `https://api.github.com/repos/${REPO}/git/trees/${treeSha}?recursive=1`
-            : `https://api.github.com/repos/${REPO}/git/trees/${BRANCH}?recursive=1`;
-        const treeData = await fetchJson(treeUrl);
-        if (!treeData || !Array.isArray(treeData.tree)) throw new Error('Rules tree fetch failed after retries');
-        if (treeData.truncated) {
-            console.warn('⚠️ Tree response truncated; some rule files may be missing.');
-        }
+        // 3. 拉取根目录树 (不递归，避免截断)
+        const rootTreeUrl = `https://api.github.com/repos/${REPO}/git/trees/${BRANCH}`;
+        const rootTree = await fetchJson(rootTreeUrl);
+        if (!rootTree || !Array.isArray(rootTree.tree)) throw new Error('Root tree fetch failed after retries');
 
-        // 4. 生成 Lite 和 Full 索引
+        const liteDir = rootTree.tree.find((item) => item.type === 'tree' && item.path === 'geo-lite');
+        const fullDir = rootTree.tree.find((item) => item.type === 'tree' && item.path === 'geo');
+
         const litePrefix = 'geo-lite/';
         const fullPrefix = 'geo/';
 
-        // 增加日志方便调试
         console.log(`   Lite Prefix: "${litePrefix}"`);
         console.log(`   Full Prefix: "${fullPrefix}"`);
 
-        const liteRules = litePrefix ? buildRulesIndex(treeData.tree, litePrefix) : [];
-        const fullRules = fullPrefix ? buildRulesIndex(treeData.tree, fullPrefix) : [];
+        const liteTree = liteDir
+            ? await fetchJson(`https://api.github.com/repos/${REPO}/git/trees/${liteDir.sha}?recursive=1`)
+            : null;
+        const fullTree = fullDir
+            ? await fetchJson(`https://api.github.com/repos/${REPO}/git/trees/${fullDir.sha}?recursive=1`)
+            : null;
+
+        const liteItems = liteTree && Array.isArray(liteTree.tree)
+            ? liteTree.tree.map((item) => ({ ...item, path: `${liteDir.path}/${item.path}` }))
+            : [];
+        const fullItems = fullTree && Array.isArray(fullTree.tree)
+            ? fullTree.tree.map((item) => ({ ...item, path: `${fullDir.path}/${item.path}` }))
+            : [];
+
+        const liteRules = buildRulesIndex(liteItems, litePrefix);
+        const fullRules = buildRulesIndex(fullItems, fullPrefix);
 
         if (liteRules.length === 0 && fullRules.length === 0) {
             throw new Error('No rules found! Check path prefix logic.');
