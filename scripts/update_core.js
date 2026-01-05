@@ -235,14 +235,21 @@ async function main() {
         }
 
         // --- 4. 比对 Alpha ---
-        if (alphaRelease && alphaRelease.tag_name !== currentAlphaVer) {
-            output.alpha = processChannel(alphaRelease, 'alpha', distBaseDir);
+        const currentAlphaDownloadsEmpty = !currentInfo.alpha?.downloads || Object.keys(currentInfo.alpha.downloads).length === 0;
+        const alphaNeedsUpdate = currentAlphaDownloadsEmpty || (alphaRelease && alphaRelease.tag_name !== currentAlphaVer);
+        let alphaSource = alphaRelease;
+        if (!alphaSource && currentAlphaVer) {
+            alphaSource = await fetchJson(`https://api.github.com/repos/SagerNet/sing-box/releases/tags/${currentAlphaVer}`);
+        }
+
+        if (alphaSource && alphaNeedsUpdate) {
+            output.alpha = processChannel(alphaSource, 'alpha', distBaseDir);
             hasUpdate = true;
 
             // 写入 Output 变量，通知 GitHub Action 发 Alpha Release
             if (process.env.GITHUB_OUTPUT) {
                 fs.appendFileSync(process.env.GITHUB_OUTPUT, `do_alpha=true\n`);
-                fs.appendFileSync(process.env.GITHUB_OUTPUT, `alpha_tag=${alphaRelease.tag_name}\n`);
+                fs.appendFileSync(process.env.GITHUB_OUTPUT, `alpha_tag=${alphaSource.tag_name}\n`);
             }
         } else {
             console.log(`✅ Alpha 版无变化 (${currentAlphaVer})`);
