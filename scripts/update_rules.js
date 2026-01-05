@@ -2,11 +2,13 @@
 
 const fs = require('fs');
 const path = require('path');
+const { execSync } = require('child_process');
 
 // 仓库配置
 const REPO = 'MetaCubeX/meta-rules-dat';
 const BRANCH = 'sing';
-const BASE_URL = `https://cdn.jsdelivr.net/gh/${REPO}@${BRANCH}`; 
+const BASE_URL = `https://cdn.jsdelivr.net/gh/${REPO}@${BRANCH}`;
+const ARCHIVE_URL = `https://github.com/${REPO}/archive/refs/heads/${BRANCH}.zip`;
 
 const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
 const HEADERS = {
@@ -162,13 +164,19 @@ async function main() {
             return;
         }
 
-        // 3. 拉取根目录树 (不递归，避免截断)
-        const rootTreeUrl = `https://api.github.com/repos/${REPO}/git/trees/${BRANCH}`;
-        const rootTree = await fetchJson(rootTreeUrl);
-        if (!rootTree || !Array.isArray(rootTree.tree)) throw new Error('Root tree fetch failed after retries');
+        // 3. 下载分支压缩包并扫描目录 (更稳定)
+        const tempDir = path.join(__dirname, '../temp_rules');
+        if (fs.existsSync(tempDir)) fs.rmSync(tempDir, { recursive: true });
+        fs.mkdirSync(tempDir);
 
-        const liteDir = rootTree.tree.find((item) => item.type === 'tree' && item.path === 'geo-lite');
-        const fullDir = rootTree.tree.find((item) => item.type === 'tree' && item.path === 'geo');
+        const zipPath = path.join(tempDir, `${BRANCH}.zip`);
+        execSync(`curl -L -s -o "${zipPath}" "${ARCHIVE_URL}"`);
+        execSync(`unzip -q "${zipPath}" -d "${tempDir}"`);
+
+        const extractedRoot = fs.readdirSync(tempDir)
+            .map((entry) => path.join(tempDir, entry))
+            .find((entryPath) => fs.statSync(entryPath).isDirectory());
+        if (!extractedRoot) throw new Error('Archive extract failed');
 
         const litePrefix = 'geo-lite/';
         const fullPrefix = 'geo/';
@@ -176,19 +184,29 @@ async function main() {
         console.log(`   Lite Prefix: "${litePrefix}"`);
         console.log(`   Full Prefix: "${fullPrefix}"`);
 
-        const liteTree = liteDir
-            ? await fetchJson(`https://api.github.com/repos/${REPO}/git/trees/${liteDir.sha}?recursive=1`)
-            : null;
-        const fullTree = fullDir
-            ? await fetchJson(`https://api.github.com/repos/${REPO}/git/trees/${fullDir.sha}?recursive=1`)
-            : null;
+        const liteDir = path.join(extractedRoot, 'geo-lite');
+        const fullDir = path.join(extractedRoot, 'geo');
 
-        const liteItems = liteTree && Array.isArray(liteTree.tree)
-            ? liteTree.tree.map((item) => ({ ...item, path: `${liteDir.path}/${item.path}` }))
-            : [];
-        const fullItems = fullTree && Array.isArray(fullTree.tree)
-            ? fullTree.tree.map((item) => ({ ...item, path: `${fullDir.path}/${item.path}` }))
-            : [];
+        function collectFiles(rootDir, prefix) {
+            const items = [];
+            function walk(currentDir) {
+                const entries = fs.readdirSync(currentDir, { withFileTypes: true });
+                for (const entry of entries) {
+                    const entryPath = path.join(currentDir, entry.name);
+                    if (entry.isDirectory()) {
+                        walk(entryPath);
+                    } else if (entry.isFile()) {
+                        const relPath = path.relative(extractedRoot, entryPath).replace(/\\/g, '/');
+                        items.push({ type: 'blob', path: relPath });
+                    }
+                }
+            }
+            if (fs.existsSync(rootDir)) walk(rootDir);
+            return items;
+        }
+
+        const liteItems = collectFiles(liteDir, litePrefix);
+        const fullItems = collectFiles(fullDir, fullPrefix);
 
         const liteRules = buildRulesIndex(liteItems, litePrefix);
         const fullRules = buildRulesIndex(fullItems, fullPrefix);
@@ -231,6 +249,9 @@ async function main() {
 
         console.log(`✅ 规则已更新: ${newVersion}`);
         console.log(`   Lite: ${liteRules.length} 条, Full: ${fullRules.length} 条`);
+
+        // 清理临时文件
+        fs.rmSync(tempDir, { recursive: true });
 
     } catch (error) {
         console.error('❌ 规则脚本执行出错:', error);
