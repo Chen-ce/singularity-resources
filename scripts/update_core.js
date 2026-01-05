@@ -60,7 +60,7 @@ function parseAsset(assetName) {
 
     // 2. 🎯 正则匹配 (更通用)
     // 匹配结构: sing-box-(版本)-(系统)-(架构)[-(变体部分)].(后缀)
-    const regex = /^sing-box-(.+?)-(.+?)-(.+?)(?:-(.+))?\.(tar\.gz|zip)$/;
+    const regex = /^sing-box-(.+)-(windows|darwin|linux|freebsd)-([^-]+)(?:-(.+))?\.(tar\.gz|zip)$/;
     const match = assetName.match(regex);
     if (!match) return null;
 
