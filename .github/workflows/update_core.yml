@@ -35,6 +35,10 @@ jobs:
           git add static/core_info.json
           git commit -m "Update core_info.json"
           git push
+      - name: Purge jsDelivr cache
+        if: steps.update.outputs.update_json == 'true'
+        run: |
+          curl -s "https://purge.jsdelivr.net/gh/${{ github.repository }}@main/static/core_info.json" > /dev/null
 
       - name: Release stable assets
         if: steps.update.outputs.do_stable == 'true'
