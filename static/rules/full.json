@@ -1,0 +1,10241 @@
+{
+  "version": "20260104224508",
+  "baseUrl": "https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing",
+  "rules": [
+    {
+      "name": "0x0",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "115",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "1337x",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "17zuoye",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "18comic",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "2ch",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "2kgames",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "36kr",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "4399",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "4chan",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "4plebs",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "51job",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "54647",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "58tongcheng",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "5ch",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "6park",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "7tv",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "800best",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "8btc",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "928plus",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "9game",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "9news",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "9to5",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "aamgame",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "abc",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "abema",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "accuweather",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "acer",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "acer@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "acfun",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "acfun-ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "acfun-ads@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "acfun@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "acplay",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "actalis",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "ad",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "adblock",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "adblockplus",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "adcolony-ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "adcolony-ads@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "addthis",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "addtoany",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "adguard",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "adidas",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "adidas@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "adjust-ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "adjust-ads@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "adobe",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "adobe-activation",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "adobe-ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "adobe-ads@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "adobe@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "adobe@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "ae",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "aerogard",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "aerogard@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "af",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "afdian",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "afp",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "ag",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "agilebits",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "agora",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "ai",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "aiqicha",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "airchina",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "airwick",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "airwick@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "aisiku",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "aixcoder",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "akamai",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "akamai@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "akiko",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "al",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "alibaba",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "alibaba-ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "alibaba-ads@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "alibaba@!cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "alibaba@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "alibabacloud",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "alibabacloud@!cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "aliyun",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "aliyun-drive",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "aliyun@!cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "aljazeera",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "am",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "amap",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "amap-ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "amap-ads@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "amap@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "amazon",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "amazon-ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "amazon-ads@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "amazon@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "amazon@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "amazontrust",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "amc",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "amd",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "amd@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "amp",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "amp@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "anaconda",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "anandtech",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "android",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "anexia",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "anime",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "annas-archive",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "anon-v",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "anthropic",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "ao",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "ap",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "apa",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "aparat",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "apifox",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "apipost",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "apkcombo",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "apkmirror",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "apkpure",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "apple",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "apple-ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "apple-ads@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "apple-cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "apple-dev",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "apple-dev@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "apple-intelligence",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "apple-pki",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "apple-pki@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "apple-tvplus",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "apple-update",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "apple@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "apple@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "appledaily",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "applovin-ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "applovin-ads@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "applysquare",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "aptoide",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "aq",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "ar",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "archive",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "archiveofourown",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "archivetoday",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "archlinux",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "arphic",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "artstation",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "as",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "asahi",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "askdiandian",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "asobo",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "asproex",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "asus",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "asus@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "at",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "atlassian",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "atom-data-ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "atom-data-ads@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "att",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "att@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "attwatchtv",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "au",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "autodesk",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "avaxhome",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "avito",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "avmoo",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "aw",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "awempire",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "aws",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "aws-cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "aws-cn@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "aws@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "ax",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "az",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "azure",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "azure@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "b3log",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "ba",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "bahamut",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "baidu",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "baidu-ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "baidu-ads@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "baidu@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "baishancloud",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "baltamatica",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "bamtech",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "bandcamp",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "bandwagonhost",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "bangumi",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "barrons",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "bb",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "bbc",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "bd",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "bdsmhub",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "be",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "beats",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "beats@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "beisen",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "bestbuy",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "bestbuy@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "bestore",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "bestv",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "bethesda",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "betterexplained",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "bf",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "bg",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "bh",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "bi",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "bilibili",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "bilibili-cdn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "bilibili-cdn@!cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "bilibili-game",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "bilibili@!cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "bilibili2",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "biliintl",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "binance",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "bing",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "bing@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "bing@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "bitauto",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "bitflyer",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "bitly",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "bitsquare",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "bitwarden",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "bj",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "bjyouth",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "bl",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "blender",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "blizzard",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "blogspot",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "bloomberg",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "bluearchive",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "bluearchive@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "bluepoch",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "bluepoch-games",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "bluesky",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "blurams",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "bm",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "bmw",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "bmw@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "bn",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "bo",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "boboporn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "boc",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "boc@!cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "bongacams",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "booking",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "booking@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "books",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "boomerang",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "bootcdn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "bootstrap",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "borneoschematics",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "boslife",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "boxun",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "boylove",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "bq",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "br",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "braveux",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "brazzers",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "bridgestone",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "bridgestone@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "brightcove",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "brilliant",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "broadcom",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "broadcom@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "bs",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "bt",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "btdig",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "bttzyw",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "bushiroad",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "buymeacoffee",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "buypass",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "bv",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "bw",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "by",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "bybit",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "bytedance",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "bytedance-ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "bytedance-ads@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "bytedance-ai-!cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "bytedance@!cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "bytedance@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "bz",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "c-span",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "ca",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "cabletv",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "cainiao",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "calgoncarbon",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "calgoncarbon@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "cambridge",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "camwhores",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "canon",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "canon@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "canonical",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "canva",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "capitalonline",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "cas",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "casimages",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "catchplay",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-acg",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-ads-all",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-ads-all@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-ads-ir",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-ads@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-ai-!cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-ai-!cn@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-ai-chat-!cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-ai-chat-!cn@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-ai-cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-android-app-download",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-anticensorship",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-antivirus",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-antivirus@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-automobile-cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-bank-cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-bank-cn@!cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-bank-ir",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-bank-jp",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-bank-mm",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-blog-cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-bourse-ir",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-browser-!cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-cas",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-cas@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-cas@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-cdn-!cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-cdn-!cn@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-cdn-cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-cdn-cn@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-collaborate-cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-communication",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-communication@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-companies",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-companies@!cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-companies@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-companies@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-container",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-cryptocurrency",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-cryptocurrency@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-ddns",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-dev",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-dev-cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-dev-cn@!cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-dev-cn@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-dev@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-dev@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-documents-cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-doh",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-ecommerce",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-ecommerce@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-ecommerce@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-education-cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-education-ir",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-electronic-cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-emby",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-enhance-gaming",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-enhance-gaming@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-enterprise-query-platform-cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-entertainment",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-entertainment-cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-entertainment-cn@!cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-entertainment-cn@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-entertainment-cn@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-entertainment@!cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-entertainment@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-entertainment@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-finance",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-finance@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-food-cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-forums",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-forums-ir",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-game-accelerator-cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-game-platforms-download",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-game-platforms-download@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-games",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-games-!cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-games-!cn@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-games-cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-games-cn@!cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-games-cn@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-games@!cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-games@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-gov-ir",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-gov-ru",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-hospital-cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-httpdns-cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-httpdns-cn@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-insurance-ir",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-ip-geo-detect",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-ipfs",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-ir",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-logistics-cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-media",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-media-cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-media-cn@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-media-ir",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-media-ru",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-media@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-mobile-repair",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-mooc-cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-netdisk-cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-network-security-cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-news-ir",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-novel",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-ntp",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-ntp-cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-ntp-cn@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-ntp-jp",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-ntp@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-number-verification-cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-olympiad-in-informatics",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-orgs",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-outsource-cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-password-management",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-payment-ir",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-porn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-porn@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-pt",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-pt@!cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-public-tracker",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-remote-control",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-remote-control@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-ru",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-scholar-!cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-scholar-cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-scholar-ir",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-scholar-uk",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-securities-cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-shopping-ir",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-social-media-!cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-social-media-!cn@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-social-media-!cn@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-social-media-cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-social-media-cn@!cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-social-media-cn@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-social-media-ir",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-speedtest",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-speedtest@!cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-speedtest@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-speedtest@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-tech-ir",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-tech-media",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-tech-media@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-tm",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-travel-ir",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-voip",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-vpnservices",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-web-archive",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-wiki-cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "cavporn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "cbs",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "cc",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "ccb",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "ccb@!cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "cctv",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "cd",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "cdn77",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "ceno",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "cerebras",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "cern",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "certinomis",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "certum",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "cf",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "cg",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "ch",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "chaoxing",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "chatango",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "chatwhores",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "cheetahmobile",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "chegg",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "chinabroadnet",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "chinamobile",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "chinamobile@!cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "chinanews",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "chinapower",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "chinaso",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "chinatelecom",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "chinatelecom@!cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "chinatower",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "chinaunicom",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "chinaunicom@!cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "chinaz",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "ci",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "cisco",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "cisco@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "citic",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "citic@!cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "citizenlab",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "ciweimao",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "ck",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "ck101",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "cl",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "clarivate",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "clearasil",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "clearasil@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "clearbit-ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "clearbit-ads@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "clips4sale",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "cloudcone",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "cloudconvert",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "cloudflare",
+      "fileType": "all",
+      "geoType": "all"
+    },
+    {
+      "name": "cloudflare-cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "cloudflare-cn@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "cloudflare-ipfs",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "cloudflare@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "cloudfront",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "cloudinary",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "cloudns",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "clubhouse",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "cm",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "cmb",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "cmb@!cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "cn",
+      "fileType": "all",
+      "geoType": "all"
+    },
+    {
+      "name": "cnb",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "cnbc",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "cnbeta",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "cnblogs",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "cnet",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "cnki",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "cnn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "co",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "code",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "codeberg",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "codecademy",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "codeforces",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "coding",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "coinone",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "collabora",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "colorfulclouds",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "comfy",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "comfy-ui-launcher",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "comodo",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "connectivity-check",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "contentful",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "coolapk",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "coomer",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "copymanga",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "corel",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "costco",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "coupang",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "coursera",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "cowlevel",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "cowtransfer",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "cr",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "craigslist",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "creativecommons",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "csdn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "csis",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "ctexcel",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "ctexcel@!cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "ctrip",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "ctrip@!cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "ctyun",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "cu",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "cuinc",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "curseforge",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "cursor",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "cuttly",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "cv",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "cw",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "cx",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "cy",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "cybertrust",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "cygames",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "cylink",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "cz",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "dailymail",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "dailymotion",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "dandanzan",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "dangdang",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "dart",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "dazn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "dcard",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "de",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "debian",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "decryptipastore",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "dedao",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "deepin",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "deepin@!cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "deepseek",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "deezer",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "dell",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "dell@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "demonoid",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "deppon",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "deribit",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "dettol",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "dettol@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "deviantart",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "dewu",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "dewu@!cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "didi",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "didi@!cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "digicert",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "digicert@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "digitalocean",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "digitalplayground",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "dingdatech",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "dingtalk",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "discord",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "discoveryplus",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "discuz",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "disney",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "disney@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "disqus",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "divar",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "dj",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "dji",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "dk",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "dlercloud",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "dlsite",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "dm",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "dmit",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "dmm",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "dmm-ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "dmm-ads@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "dmm-porn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "dmm@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "dnspod",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "do",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "doc88",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "docin",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "docker",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "doi",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "dola",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "dongchedi",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "dongjiao",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "douban",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "doubao",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "douyin",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "douyu",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "dowjones",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "dribbble",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "dropbox",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "drweb",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "dslreports",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "duckduckgo",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "duitang",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "duolingo",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "duolingo-ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "duolingo-ads@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "duolingo@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "duolingo@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "duowan",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "durex",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "durex@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "duyaoss",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "dw",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "dwion",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "dyna",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "dynu",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "dz",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "dzen",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "ea",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "eastmoney",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "eastmoney@!cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "easylist",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "ebay",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "ebay@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "ebuyer",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "ec",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "economist",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "edx",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "ee",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "eg",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "egghead",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "eh",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "ehentai",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "electron",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "eleme",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "elevenlabs",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "elsevier",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "embark",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "embedly",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "embl",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "emogi-ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "emogi-ads@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "emojipedia",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "enfa",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "entermediadb",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "entrust",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "entrust@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "epicbrowser",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "epicgames",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "epicgames@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "epochmediagroup",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "er",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "erolabs",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "es",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "escapefromtarkov",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "eset",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "eset@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "espn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "espressif",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "esri",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "et",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "ethereum",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "everbright",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "evernote",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "f-droid",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "facebook",
+      "fileType": "all",
+      "geoType": "all"
+    },
+    {
+      "name": "facebook-ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "facebook-ads@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "facebook-dev",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "faceit",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "falungong",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "familymart",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "familymart@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "fandom",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "fans66",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "fansta",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "farfetch",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "farfetch@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "faronics",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "fastlane",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "fastly",
+      "fileType": "all",
+      "geoType": "all"
+    },
+    {
+      "name": "faststone",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "fcbox",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "fedora",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "feedly",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "feishu",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "fengxing",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "fflogs",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "fflogs@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "fi",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "fibank",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "ficbook",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "figma",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "filimo",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "finish",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "finish@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "firebase",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "firebase@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "firefox",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "fj",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "fk",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "flatpak",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "flibusta",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "flickr",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "flowus",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "flurry-ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "flurry-ads@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "flutter",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "fm",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "fo",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "fontawesome",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "fontexplorer",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "fonts",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "fontshop",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "fontsinuse",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "forbes",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "forza",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "fox",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "fqnovel",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "fqnovel-ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "fqnovel-ads@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "fqnovel@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "fr",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "framer",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "freecodecamp",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "freenode",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "ft",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "ftv",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "futu",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "futu@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "fzdm",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "ga",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "gamersky",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "gamersky@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "gandi",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "ganji",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "gannett",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "garena",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "gateio",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "gb",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "gd",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "ge",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "geetest",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "gemfury",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "geolocation-!cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "geolocation-cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "geolocation-cn@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "gettyimages",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "getui",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "gf",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "gfw",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "gfycat",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "gg",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "ggsel",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "gh",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "gi",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "giffgaff",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "gigabyte",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "gigabyte@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "gimy",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "gitbook",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "gitee",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "github",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "github-ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "github-ads@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "github@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "github1s",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "gitlab",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "gitv",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "gl",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "globalsign",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "globalsign@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "globalvoices",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "glyphs",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "gm",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "gn",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "godaddy",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "gofundme",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "gog",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "gog@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "golang",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "goodreads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "google",
+      "fileType": "all",
+      "geoType": "all"
+    },
+    {
+      "name": "google-ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "google-ads@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "google-cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "google-deepmind",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "google-gemini",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "google-play",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "google-play@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "google-registry",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "google-registry-tld",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "google-scholar",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "google-trust-services",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "google-trust-services@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "google@!cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "google@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "google@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "googlefcm",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "googlefcm@!cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "goproxy",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "gp",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "gq",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "gr",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "gracg",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "gravatar",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "greatfire",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "gree",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "groq",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "growingio-ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "growingio-ads@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "gs",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "gt",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "gu",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "gucci",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "gucci@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "guo",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "guokr",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "gw",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "gy",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "habr",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "haier",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "hainanairlines",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "haitang",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "hamivideo",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "hanyi",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "harpercollins",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "hashicorp",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "haskell",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "haveibeenpwned",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "hbo",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "hcaptcha",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "hentaichen",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "hentaivn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "herogame",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "heroku",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "hetzner",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "hetzner@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "heyzo",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "hiido-ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "hiido-ads@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "hikvision",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "hinet",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "hinet-eca",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "hitun",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "hk",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "hkbn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "hkedcity",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "hketgroup",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "hketgroup@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "hkgolden",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "hkopentv",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "hkt",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "hm",
+      "fileType": "all",
+      "geoType": "all"
+    },
+    {
+      "name": "hm@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "hn",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "homebrew",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "homedepot",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "hongkongpost",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "honor",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "hooligapps",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "hotjar-ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "hotjar-ads@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "hotstar",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "hoyoverse",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "hp",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "hp@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "hpe",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "hr",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "hsbc",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "hsbc-cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "ht",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "httpdns",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "hu",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "huanghuagang",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "huawei",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "huawei-dev",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "huawei-dev@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "huawei@!cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "huawei@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "huaweicloud",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "huaweicloud@!cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "hubblephone",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "huffpost",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "hugecore",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "huggingface",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "hujiang",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "hulu",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "hunantv",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "hunantv-ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "hunantv-ads@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "hunantv@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "huobi",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "hupu",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "hupun",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "hurricaneelectric",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "huya",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "ibkr",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "ibm",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "icable",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "icbc",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "icbc@!cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "icloud",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "icloud@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "icloudprivaterelay",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "id",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "identrust",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "idg",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "ie",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "ieee",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "ifanr",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "ifast",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "ifast@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "iflytek",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "ihuman",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "iina",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "ikea",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "ikea@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "il",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "illusion",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "illusion-nonofficial",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "im",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "imagebam",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "imagecurl",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "imageshack",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "imagetwist",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "imdb",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "imgbb",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "imgix",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "imgur",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "imperialcollege",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "in",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "infowars",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "infrapedia",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "inner-active-ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "inner-active-ads@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "inoreader",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "inshot",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "insider",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "instagram",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "instagram-ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "instagram-ads@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "instagram@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "intel",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "intel-dev",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "intel@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "intercom",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "internet-archive",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "intsig",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "intuit",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "io",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "ipip",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "ipip@!cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "iq",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "iqiyi",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "iqiyi-ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "iqiyi-ads@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "iqiyi@!cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "iqiyi@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "ir",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "is",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "isgd",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "ishumei",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "it",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "itchio",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "itiger",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "itunes",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "itunes@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "ixsystems",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "iyf",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "jable",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "japonx",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "java",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "javbus",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "javcc",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "javdb",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "javwide",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "jd",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "jd-ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "jd-ads@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "jd@!cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "jd@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "je",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "jetbrains",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "jetbrains-ai",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "jetbrains@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "jfrog",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "jianshu",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "jibencaozuo",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "jiemian",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "jiguang",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "jinshuju",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "jiyukobo",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "jkf",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "jlc",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "jm",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "jo",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "johren",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "jp",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "jquery",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "jsdelivr",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "jtexpress",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "juejin",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "jushuitan",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "justav",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "justmysocks",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "jutongbao",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "jwplayer",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "kaggle",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "kakao",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "kanzhongguo",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "kaspersky",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "kaspersky@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "ke",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "kechuang",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "kechuang@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "keep",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "kemono",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "kernel",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "keybase",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "kg",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "kh",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "khanacademy",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "ki",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "kindle",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "kindle@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "kindle4rss",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "kingkonglive",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "kingsoft",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "kinopub",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "kkbox",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "kktv",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "km",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "kn",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "knovel",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "kodi",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "konachan",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "koolearn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "kp",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "kr",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "kraken",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "ku6",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "kuaidi100",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "kuaikan",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "kuaishou",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "kuaishou-ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "kuaishou-ads@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "kuaishou@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "kuaiyikeji",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "kubakuba",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "kubernetes",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "kucoin",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "kugou",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "kugou-ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "kugou-ads@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "kugou@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "kurogames",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "kurogames@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "kuwo",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "kw",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "ky",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "kyodonews",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "kz",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "la",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "lagou",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "landian",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "lantern",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "lanzou",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "laracasts",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "lark",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "lark-global",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "lastfm",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "lastpass",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "launchpad",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "lavteam",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "lb",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "lc",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "le",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "le@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "lenovo",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "lethalhardcore",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "letsencrypt",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "letv-ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "letv-ads@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "lg",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "li",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "lianjia",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "liberapay",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "libgen",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "liepin",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "lifewire",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "lihkg",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "limelight",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "linakesi",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "line",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "linguee",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "linkedin",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "linkedin@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "linotype",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "linux",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "linuxdo",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "lisiku",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "litv",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "lizhi",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "lk",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "lkcoffee",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "localbitcoins",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "localizejs",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "logitech",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "londonreal",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "longbridge",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "lowiro",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "lr",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "ls",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "lt",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "ltn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "lu",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "lumion",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "lv",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "ly",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "lysol",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "lysol@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "ma",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "madshi",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "mafengwo",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "mailcom",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "mailru",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "mailru-group",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "mainichi",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "manhuagui",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "manorama",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "manoto",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "maocloud",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "mapbox",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "mapbox@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "marvel",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "mastercard",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "mastercard@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "masterclass",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "matrix",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "matters",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "mc",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "mcdonalds",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "mcdonalds@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "md",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "mdn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "me",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "meadjohnson",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "meadjohnson@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "mediachinesegroup",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "medium",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "meduza",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "mega",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "meipian",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "meitu",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "meituan",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "meizu",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "messenger",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "meta",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "meta-ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "meta-ads@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "meta@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "metabrainz",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "metacritic",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "metart",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "mf",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "mg",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "mh",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "miaomiaozhe",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "microsoft",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "microsoft-ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "microsoft-ads@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "microsoft-dev",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "microsoft-dev@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "microsoft-pki",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "microsoft-pki@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "microsoft@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "microsoft@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "midea",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "mihoyo",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "mihoyo-ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "mihoyo-ads@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "mihoyo-cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "mihoyo-cn@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "mihoyo@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "mihoyo@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "mikrotik",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "mindgeek",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "mindgeek-porn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "mini",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "miniso",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "miniso@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "miraheze",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "missav",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "misskey",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "misskey-universe",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "mit",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "mk",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "ml",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "mm",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "mn",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "mo",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "mobile01",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "mocha",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "modrinth",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "mogujie",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "mojang",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "moji",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "momo",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "mongodb",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "monotype",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "moonvy",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "mopub-ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "mopub-ads@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "morisawa",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "mortein",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "mortein@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "movefree",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "movefree@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "moxing",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "mozilla",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "mp",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "mq",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "mr",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "ms",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "msi",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "msn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "msn@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "mt",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "mu",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "mubi",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "mucinex",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "mudvod",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "muji",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "muji@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "musixmatch",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "mv",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "mw",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "mx",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "mxplayer-ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "mxplayer-ads@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "mxroute",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "my",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "mydirtyhobby",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "myfonts",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "myradio",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "mytvsuper",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "mz",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "mzed",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "n26",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "n3ro",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "na",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "narwal",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "nationalgeographic",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "naver",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "nbcuniversal",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "nc",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "ne",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "neowin",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "netcup",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "netease",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "netease-ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "netease-ads@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "netease@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "netflav",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "netflix",
+      "fileType": "all",
+      "geoType": "all"
+    },
+    {
+      "name": "netlify",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "neuralink",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "newegg",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "newrelic-ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "newrelic-ads@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "newscorp",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "newsmax",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "nexitally",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "nexo",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "nexon",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "nf",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "ng",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "nga",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "nginx",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "ni",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "niconico",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "nike",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "nike@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "nikkan-gendai",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "nikke",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "nikkei",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "nintendo",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "nintendo@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "nist",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "nixos",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "nl",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "no",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "nodejs",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "nodeseek",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "noip",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "nordstrom",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "notion",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "now",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "nowcoder",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "np",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "npmjs",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "nr",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "nu",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "nudevista",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "nurofen",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "nurofen@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "nutaku",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "nvidia",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "nvidia@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "nyaa",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "nypost",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "nytimes",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "nz",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "oan",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "oculus",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "ogury-ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "ogury-ads@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "ok",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "okaapps",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "okaapps@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "okjike",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "okko",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "okx",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "okx@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "olevod",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "om",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "onedrive",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "onekey",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "oneplus",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "oneplus@!cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "ookla-speedtest",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "ookla-speedtest-ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "ookla-speedtest-ads@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "ookla-speedtest@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "op",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "openai",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "openai@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "opencollective",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "openjsfoundation",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "openjsfoundation@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "opensourceinsights",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "openspeedtest",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "openstreetmap",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "openweather",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "openwrt",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "openx-ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "openx-ads@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "oppo",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "oppo@!cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "oracle",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "oreilly",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "oreilly@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "organicmaps",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "origin",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "oschina",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "osdn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "osu",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "oup",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "ozon",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "pa",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "pagecdn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "panasonic",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "panasonic@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "pandanet",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "paofuyun",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "paskoocheh",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "pastebin",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "patreon",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "paypal",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "paypal@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "pbs",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "pccw",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "pchome",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "pe",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "pearson",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "pearson@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "peppy",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "perl",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "perplexity",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "pf",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "pg",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "pgyer",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "ph",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "phoenix",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "picacg",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "picacg-ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "picacg-ads@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "picacg@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "picsee",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "pikpak",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "pikpak@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "pinduoduo",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "pingan",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "pingan@!cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "pingcap",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "pingpe",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "pingsx",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "pinkcore",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "pinterest",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "piratebay",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "pixhost",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "pixiv",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "pixiv@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "pixnet",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "pk",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "pl",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "playboy",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "playcover",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "playstation",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "plutotv",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "pm",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "pn",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "pocketcasts",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "pocoiq-ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "pocoiq-ads@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "poe",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "polocloud",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "polymer",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "polyv",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "pornhub",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "pornpros",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "postimages",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "pptv",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "pr",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "primevideo",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "primevideo@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "private",
+      "fileType": "all",
+      "geoType": "all"
+    },
+    {
+      "name": "projectpoi",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "projectsekai",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "proquest",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "protonmail",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "ps",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "pstorage",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "pt",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "ptt",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "pubmatic",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "pubmatic-ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "pubmatic-ads@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "pubmatic@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "pugpig",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "purikonejp",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "pw",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "py",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "python",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "python-community",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "qa",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "qcc",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "qcloud",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "qcloud@!cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "qihoo360",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "qihoo360-ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "qihoo360-ads@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "qihoo360@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "qimao",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "qingcloud",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "qingtingfm",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "qiniu",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "qixin",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "qnap",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "qnap@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "qt",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "qualcomm",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "qualcomm@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "quantil",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "quip",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "quora",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "qwant",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "qweather",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "rakuten",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "rarbg",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "razer",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "razer@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "rb",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "rb@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "re",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "reabble",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "reabble@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "readthedocs",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "reagroup",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "realclear",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "realitykings",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "realtype",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "rebrandly",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "reddit",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "redhat",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "redis",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "redotpay",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "redtube",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "remirepo",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "renren",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "reurl",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "reuters",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "rferl",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "riot",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "riot@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "ro",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "roblox",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "rockstar",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "roku",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "rs",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "rsshub",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "rsshub-3rd",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "rthk",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "ru",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "ruanmei",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "ruby",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "rubychina",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "ruleoflaw",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "rumble",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "rust",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "ruten",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "rutracker",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "rutube",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "rw",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "sa",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "sakurafrp",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "salesforce",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "samsung",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "samsung@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "samsung@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "sankei",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "sb",
+      "fileType": "all",
+      "geoType": "all"
+    },
+    {
+      "name": "sc",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "scala",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "scaleflex",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "scenesource",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "schwab",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "sci",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "sci-hub",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "sciencedirect",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "scmp",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "scp",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "sd",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "se",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "seasun",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "secom",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "sectigo",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "sectigo@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "segment-ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "segment-ads@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "segmentfault",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "sehuatang",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "sensorsdata-ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "sensorsdata-ads@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "sentry",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "setapp",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "setn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "sf-express",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "sg",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "sh",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "shadowsockscom",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "shanbay",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "sharepoint",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "sharethis",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "shireyishunjian",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "shopee",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "shopee@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "shopify",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "shorturl",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "showtimeanytime",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "si",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "signal",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "sina",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "sina-ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "sina-ads@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "sina@!cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "sina@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "singtaonewscorp",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "sinopec",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "sitepoint",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "sj",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "sk",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "skillshare",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "sky",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "sky@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "skyperfect",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "sl",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "slack",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "slideshare",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "sling",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "sm",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "smartone",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "smtiaojiaoshi",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "smzdm",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "sn",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "snap",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "snap@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "snapcraft",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "snapp",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "snk",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "snodehome",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "so",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "softbank",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "softether",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "sogou",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "sohu",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "sohu-ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "sohu-ads@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "sohu@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "sony",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "sonypictures",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "soundcloud",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "soundofhope",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "sourceforge",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "sourcehut",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "soyjakparty",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "spacemail",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "spaceship",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "spacex",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "spankbang",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "speedtest",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "speedtest@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "spiceworks",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "spotify",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "spotify-ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "spotify-ads@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "springer",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "squareup",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "squirrelvpn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "sr",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "ss",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "sslcom",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "sslcom@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "ssrcloud",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "st",
+      "fileType": "all",
+      "geoType": "all"
+    },
+    {
+      "name": "st@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "stackexchange",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "stackpath",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "stage1st",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "starbucks",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "starbucks@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "starfieldtech",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "starplus",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "startpage",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "starworld",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "staticfile",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "steam",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "steam@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "steamunlocked",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "steemit",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "sto-express",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "straitsx",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "streamable",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "strepsils",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "strepsils@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "strikingly",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "stripe",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "subscene",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "suishouji",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "sumkoo",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "suning",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "supercell",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "supersonic-ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "supersonic-ads@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "surflite",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "suruga-ya",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "sv",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "svp",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "swag",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "swift",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "swift@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "swisssign",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "sx",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "sxl",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "sy",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "symantec",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "symantec-pki",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "synology",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "synology@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "sz",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "taboola",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "tagtic-ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "tagtic-ads@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "taikang",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "tailscale",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "talkatone",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "taomee",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "tappx-ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "tappx-ads@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "taptap",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "taptap@!cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "target",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "taylorfrancis",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "tc",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "tcl",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "td",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "teambition",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "teamviewer",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "teamviewer@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "techpowerup",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "techtimes",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "ted",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "telegram",
+      "fileType": "all",
+      "geoType": "all"
+    },
+    {
+      "name": "telekom",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "television-ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "television-ads@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "temp-mail",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "tencent",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "tencent-ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "tencent-ads@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "tencent-dev",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "tencent-dev@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "tencent-games",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "tencent@!cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "tencent@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "tencent@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "tendcloud",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "terabox",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "termux",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "tesla",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "tesla@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "test",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "test-ipv6",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "test-ipv6@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "tex",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "tf",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "tg",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "tgbus",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "th",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "theboringcompany",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "theguardian",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "theinitium",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "thelinuxfoundation",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "thelinuxfoundation@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "theporndude",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "thescoregroup",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "thesun",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "thetimes",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "thetype",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "thetype@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "thomsonreuters",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "threads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "tiancity",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "tianyancha",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "tidal",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "tidelift",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "tiktok",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "tiktok@!cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "tinyurl",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "tj",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "tk",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "tl",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "tld-!cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "tld-cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "tld-opennic",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "tm",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "tmdb",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "tmtpost",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "tn",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "to",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "tokyo-sports",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "tokyo-toshokan",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "tonec",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "tongcheng",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "tongfang",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "topcoder",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "tor",
+      "fileType": "all",
+      "geoType": "all"
+    },
+    {
+      "name": "torproject",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "tr",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "tracker",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "trackernetwork",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "trae",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "translatewiki",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "trello",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "trustwallet",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "trustwave",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "truyen-hentai",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "tsquare",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "tt",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "tube8",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "tubi",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "tumblr",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "tutanota",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "tv",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "tvb",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "tvb@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "tvdb",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "tver",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "tw",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "twca",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "twitch",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "twitter",
+      "fileType": "all",
+      "geoType": "all"
+    },
+    {
+      "name": "twitter@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "typekit",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "typenetwork",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "typography",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "tz",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "u17",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "ua",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "uber",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "uberads-ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "uberads-ads@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "ubiquiti",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "ubiquiti@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "ubisoft",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "ubisoft@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "ubuntu",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "ubuntukylin",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "uc",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "ucloud",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "udacity",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "udemy",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "udn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "ug",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "um",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "umeng",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "umeng-ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "umeng-ads@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "umeng@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "unionpay",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "unity",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "unity-ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "unity-ads@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "unity@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "upai",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "us",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "usersdrive",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "uu-chat",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "uy",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "uz",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "v2ray",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "v8",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "va",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "vancl",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "vanish",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "vanish@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "vaptcha",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "vc",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "ve",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "veet",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "veet@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "vercel",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "verisign",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "verisign-pki",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "verizon",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "verizon@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "verizon@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "vg",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "vgtime",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "vi",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "viber",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "vilavpn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "vim",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "vimeo",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "visa",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "visa@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "visualarts",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "viu",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "vivo",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "vivo@!cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "vk",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "vmware",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "vmware@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "vn",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "voanews",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "vodafone",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "volcengine",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "volmoe",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "volvo",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "volvo@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "voxmedia",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "vpngate",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "vrcdn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "vrchat",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "vrzwk",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "vu",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "vultr",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "w3schools",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "wallhaven",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "walmart",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "walmart@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "wanfang",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "wangsu",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "wantmedia",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "wasu",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "watchout",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "wbgames",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "weathercn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "webex",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "webex@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "webnovel",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "webtype",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "weiphone",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "wenshushu",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "westerndigital",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "westerndigital@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "wf",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "whatsapp",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "whatsapp-ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "whatsapp-ads@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "whatsapp@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "wholefoodsmarket",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "wikidot",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "wikihow",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "wikimedia",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "wildberries",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "win-extra",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "win-spy",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "win-update",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "windy",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "wink",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "wise",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "wisekey",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "wish",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "wistia",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "wiwide",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "wix",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "wjx",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "wolai",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "woolite",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "woolite@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "wordpress",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "wps",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "ws",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "wsj",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "wwe",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "wynd",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "x",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "x@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "x5",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "xai",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "xbox",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "xbox@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "xd",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "xd@!cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "xda",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "xdty",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "xedge",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "xhamster",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "xhamster-ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "xhamster-ads@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "xhamster@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "xiaoheihe",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "xiaohongshu",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "xiaomi",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "xiaomi-ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "xiaomi-ads@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "xiaomi-ai",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "xiaomi@!cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "xiaomi@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "xiaoyuzhou",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "ximalaya",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "ximalaya-ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "ximalaya-ads@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "xingkongwuxianmedia",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "xingrz",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "xk",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "xnxx",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "xueersi",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "xueqiu",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "xunlei",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "xvideos",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "yahoo",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "yahoo-ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "yahoo-ads@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "yahoo@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "yahoo@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "yandex",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "ycombinator",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "ye",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "ymtc",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "ynet",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "ynoproject",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "yokaverse",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "yomiuri",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "youjizz",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "youku",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "youku-ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "youku-ads@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "youporn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "youquan",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "youtube",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "youtube@cn",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "youzan",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "yt",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "yto-express",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "yuanbei",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "yuanfudao",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "yuewen",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "yuketang",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "yundaex",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "yunfanjiasu",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "yunlaopo",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "yy",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "z-library",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "z3x-team",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "za",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "zaobao",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "zb",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "zdns",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "zee",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "zeetv",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "zendesk",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "zeplin",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "zhangtao",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "zhihu",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "zhihu-ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "zhihu-ads@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "zhihu@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "zhimeishe",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "zhubajie",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "ziroom",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "zm",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "zoho",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "zoom",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "zotero",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "zte",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "zto-express",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "zuoyebang",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "zuoyebang-ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "zuoyebang-ads@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "zuoyebang@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "zw",
+      "fileType": "all",
+      "geoType": "ip"
+    }
+  ]
+}

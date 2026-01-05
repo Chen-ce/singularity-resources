@@ -1,0 +1,141 @@
+{
+  "version": "20260104224508",
+  "baseUrl": "https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing",
+  "rules": [
+    {
+      "name": "abema",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "apple",
+      "fileType": "all",
+      "geoType": "all"
+    },
+    {
+      "name": "applemusic",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "bahamut",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "bilibili",
+      "fileType": "all",
+      "geoType": "all"
+    },
+    {
+      "name": "biliintl",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "cloudflare",
+      "fileType": "all",
+      "geoType": "all"
+    },
+    {
+      "name": "cloudfront",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "cn",
+      "fileType": "all",
+      "geoType": "all"
+    },
+    {
+      "name": "ehentai",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "facebook",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "github",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "google",
+      "fileType": "all",
+      "geoType": "all"
+    },
+    {
+      "name": "jp",
+      "fileType": "all",
+      "geoType": "ip"
+    },
+    {
+      "name": "microsoft",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "netflix",
+      "fileType": "all",
+      "geoType": "all"
+    },
+    {
+      "name": "onedrive",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "openai",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "pixiv",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "private",
+      "fileType": "all",
+      "geoType": "all"
+    },
+    {
+      "name": "proxy",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "proxymedia",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "spotify",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "telegram",
+      "fileType": "all",
+      "geoType": "all"
+    },
+    {
+      "name": "tiktok",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "twitter",
+      "fileType": "all",
+      "geoType": "all"
+    },
+    {
+      "name": "youtube",
+      "fileType": "all",
+      "geoType": "site"
+    }
+  ]
+}
