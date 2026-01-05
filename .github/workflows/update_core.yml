@@ -1,0 +1,55 @@
+name: Update core assets
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */3 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-core:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 18
+
+      - name: Update core assets
+        id: update
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          RESOURCE_REPO: ${{ github.repository }}
+        run: node scripts/update_core.js
+
+      - name: Commit core_info.json
+        if: steps.update.outputs.update_json == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add static/core_info.json
+          git commit -m "Update core_info.json"
+          git push
+
+      - name: Release stable assets
+        if: steps.update.outputs.do_stable == 'true'
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ steps.update.outputs.stable_tag }}
+          name: ${{ steps.update.outputs.stable_tag }}
+          files: dist/stable/*
+          make_latest: true
+
+      - name: Release alpha assets
+        if: steps.update.outputs.do_alpha == 'true'
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ steps.update.outputs.alpha_tag }}
+          name: ${{ steps.update.outputs.alpha_tag }}
+          files: dist/alpha/*
+          prerelease: true
