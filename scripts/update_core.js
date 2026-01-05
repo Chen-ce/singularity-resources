@@ -58,7 +58,7 @@ function parseAsset(assetName) {
         return null;
     }
 
-    // 2. 🎯 去除前后缀后，从右向左解析，避免版本号里的 "-"
+    // 2. 🎯 去除前后缀后，从左向右解析，避免被变体里的系统名干扰
     if (!assetName.startsWith('sing-box-')) return null;
     if (!assetName.endsWith('.tar.gz') && !assetName.endsWith('.zip')) return null;
     const baseName = assetName
@@ -67,13 +67,7 @@ function parseAsset(assetName) {
     const parts = baseName.split('-');
 
     const osList = ['windows', 'darwin', 'linux', 'freebsd'];
-    let osIndex = -1;
-    for (let i = parts.length - 1; i >= 0; i--) {
-        if (osList.includes(parts[i])) {
-            osIndex = i;
-            break;
-        }
-    }
+    const osIndex = parts.findIndex((part) => osList.includes(part));
     if (osIndex === -1) return null;
 
     let os = parts[osIndex];
