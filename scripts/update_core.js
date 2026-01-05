@@ -58,13 +58,28 @@ function parseAsset(assetName) {
         return null;
     }
 
-    // 2. 🎯 正则匹配 (更通用)
-    // 匹配结构: sing-box-(版本)-(系统)-(架构)[-(变体部分)].(后缀)
-    const regex = /^sing-box-(.+)-(windows|darwin|linux|freebsd)-([^-]+)(?:-(.+))?\.(tar\.gz|zip)$/;
-    const match = assetName.match(regex);
-    if (!match) return null;
+    // 2. 🎯 去除前后缀后，从右向左解析，避免版本号里的 "-"
+    if (!assetName.startsWith('sing-box-')) return null;
+    if (!assetName.endsWith('.tar.gz') && !assetName.endsWith('.zip')) return null;
+    const baseName = assetName
+        .replace(/^sing-box-/, '')
+        .replace(/\.(tar\.gz|zip)$/, '');
+    const parts = baseName.split('-');
 
-    let [, version, os, arch, variant, ext] = match;
+    const osList = ['windows', 'darwin', 'linux', 'freebsd'];
+    let osIndex = -1;
+    for (let i = parts.length - 1; i >= 0; i--) {
+        if (osList.includes(parts[i])) {
+            osIndex = i;
+            break;
+        }
+    }
+    if (osIndex === -1) return null;
+
+    let os = parts[osIndex];
+    let arch = parts[osIndex + 1];
+    if (!arch) return null;
+    const variant = parts.slice(osIndex + 2).join('-') || null;
 
     // 3. 🔄 系统名称标准化
     if (os === 'darwin') os = 'macos';
