@@ -6,7 +6,7 @@ const path = require('path');
 // 仓库配置
 const REPO = 'MetaCubeX/meta-rules-dat';
 const BRANCH = 'sing';
-const BASE_URL = `https://cdn.jsdelivr.net/gh/${REPO}@${BRANCH}`; // 去掉后缀路径，后面用 file.path 拼
+const BASE_URL = `https://cdn.jsdelivr.net/gh/${REPO}@${BRANCH}`; 
 
 const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
 const HEADERS = {
@@ -18,15 +18,44 @@ function formatCommitTime(isoString) {
     return isoString.replace(/[-:TZ]/g, '');
 }
 
-async function fetchJson(url) {
-    try {
-        const res = await fetch(url, { headers: HEADERS });
-        if (!res.ok) throw new Error(`Fetch failed: ${res.status}`);
-        return await res.json();
-    } catch (error) {
-        console.warn(`⚠️ Fetch warning for ${url}: ${error.message}`);
-        return null;
+// 🔥 辅助函数：延时
+const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
+
+// 🔥 升级版：带重试机制的 Fetch
+async function fetchJson(url, retries = 3) {
+    for (let i = 0; i < retries; i++) {
+        try {
+            const res = await fetch(url, { headers: HEADERS });
+            
+            // 如果成功，直接返回
+            if (res.ok) {
+                return await res.json();
+            }
+
+            // 如果是 404，说明文件不存在，不需要重试，直接返回 null
+            if (res.status === 404) {
+                console.warn(`⚠️ Resource not found (404): ${url}`);
+                return null;
+            }
+
+            // 如果是 5xx (服务端错误) 或 403 (限流)，抛出错误触发重试
+            const msg = `Status ${res.status} ${res.statusText}`;
+            throw new Error(msg);
+
+        } catch (error) {
+            console.warn(`⚠️ Fetch attempt ${i + 1}/${retries} failed for ${url}: ${error.message}`);
+            
+            // 如果是最后一次尝试，抛出异常让主程序处理
+            if (i === retries - 1) {
+                console.error(`❌ All retry attempts failed for ${url}`);
+                return null;
+            }
+            
+            // 等待一段时间后重试 (1s, 2s, ...)
+            await sleep(1000 * (i + 1));
+        }
     }
+    return null;
 }
 
 function resolveFileType(typeSet) {
@@ -44,18 +73,16 @@ function resolveGeoType(typeSet) {
 
 /**
  * 构建索引的核心函数
- * @param {Array} treeItems GitHub Tree 数组
- * @param {String} prefix 路径前缀，例如 'geo/' 或 'geo-lite/'
  */
 function buildRulesIndex(treeItems, prefix) {
     const ruleMap = new Map();
 
     for (const item of treeItems) {
         if (item.type !== 'blob') continue;
-        // 🔥 关键修正：根据传入的前缀过滤 (geo/ 或 geo-lite/)
+        // 过滤前缀
         if (!item.path.startsWith(prefix)) continue;
 
-        // 截取相对路径: geo/geoip/cn.srs -> geoip/cn.srs
+        // 截取相对路径
         const relPath = item.path.slice(prefix.length);
         
         // 判断文件类型
@@ -64,8 +91,7 @@ function buildRulesIndex(treeItems, prefix) {
         else if (relPath.endsWith('.json')) fileType = 'json';
         else continue;
 
-        // 提取名称: geoip/cn.srs -> cn
-        // 注意：这里需要去掉前面的 geoip/ 或 geosite/ 目录
+        // 提取名称
         const parts = relPath.split('/');
         if (parts.length < 2) continue; // 忽略根目录文件
         
@@ -77,7 +103,7 @@ function buildRulesIndex(treeItems, prefix) {
             name,
             fileTypes: new Set(),
             geoTypes: new Set(),
-            files: [] // 记录具体文件路径，方便客户端直接下载
+            files: []
         };
 
         record.fileTypes.add(fileType);
@@ -93,7 +119,7 @@ function buildRulesIndex(treeItems, prefix) {
 
         if (geoType) {
             record.files.push({
-                path: item.path, // 这里存完整路径: rules/geo-lite/geoip/cn.srs
+                path: item.path,
                 fileType,
                 geoType
             });
@@ -102,22 +128,25 @@ function buildRulesIndex(treeItems, prefix) {
         ruleMap.set(name, record);
     }
 
-    // 转为数组并排序
     return Array.from(ruleMap.values())
         .map((record) => ({
             name: record.name,
             fileType: resolveFileType(record.fileTypes),
             geoType: resolveGeoType(record.geoTypes),
-            // 这里可选：是否把所有文件列表也放在 JSON 里？
-            // 你的代码里 fullOutput 放了 files，liteOutput 没放，这个设计挺好
             files: record.files.sort((a, b) => a.path.localeCompare(b.path)) 
         }))
         .sort((a, b) => a.name.localeCompare(b.name));
 }
 
+// 自动寻找目录前缀 (这部分你的代码写得很好，保留)
 function findRulesPrefix(treeItems, targetDir) {
+    // 增加边界检查，防止正则报错
+    if (!treeItems || treeItems.length === 0) return '';
+    
     const targetMarker = `${targetDir}/`;
+    // 正则匹配: 必须包含 geoip 或 geosite 且以 .srs 或 .json 结尾
     const matcher = new RegExp(`(?:^|/)${targetDir}/(geoip|geosite)/.+\\.(srs|json)$`);
+    
     for (const item of treeItems) {
         if (item.type !== 'blob') continue;
         if (!matcher.test(item.path)) continue;
@@ -131,14 +160,14 @@ async function main() {
     try {
         console.log(`🌍 开始处理规则: ${REPO}...`);
 
-        // 1. 获取最新 Commit
+        // 1. 获取最新 Commit (带重试)
         const commitUrl = `https://api.github.com/repos/${REPO}/commits/${BRANCH}`;
         const commitData = await fetchJson(commitUrl);
-        if (!commitData) throw new Error('Commit fetch failed');
+        if (!commitData) throw new Error('Commit fetch failed after retries');
 
         const newVersion = formatCommitTime(commitData.commit.committer.date);
 
-        // 2. 检查本地版本 (只需检查一个文件即可)
+        // 2. 检查本地版本
         const rulesDir = path.join(__dirname, '../static/rules');
         const versionPath = path.join(rulesDir, 'rule.version');
         let currentVersion = '';
@@ -151,40 +180,39 @@ async function main() {
             return;
         }
 
-        // 3. 拉取规则树
+        // 3. 拉取规则树 (带重试)
         const treeUrl = `https://api.github.com/repos/${REPO}/git/trees/${BRANCH}?recursive=1`;
         const treeData = await fetchJson(treeUrl);
-        if (!treeData || !Array.isArray(treeData.tree)) throw new Error('Rules tree fetch failed');
+        if (!treeData || !Array.isArray(treeData.tree)) throw new Error('Rules tree fetch failed after retries');
 
-        // 4. 🔥 分别生成 Lite 和 Full 索引 (自动识别规则目录前缀)
+        // 4. 生成 Lite 和 Full 索引
         const litePrefix = findRulesPrefix(treeData.tree, 'geo-lite');
         const fullPrefix = findRulesPrefix(treeData.tree, 'geo');
+
+        // 增加日志方便调试
+        console.log(`   Lite Prefix: "${litePrefix}"`);
+        console.log(`   Full Prefix: "${fullPrefix}"`);
 
         const liteRules = litePrefix ? buildRulesIndex(treeData.tree, litePrefix) : [];
         const fullRules = fullPrefix ? buildRulesIndex(treeData.tree, fullPrefix) : [];
 
         if (liteRules.length === 0 && fullRules.length === 0) {
-            throw new Error('No rules found! Check path prefix.');
+            throw new Error('No rules found! Check path prefix logic.');
         }
 
         // 5. 写入输出
         if (!fs.existsSync(rulesDir)) fs.mkdirSync(rulesDir, { recursive: true });
 
-        // 生成 lite.json
         const liteOutput = {
             version: newVersion,
-            // 客户端拼接: baseUrl + "/" + file.path
             baseUrl: BASE_URL, 
             rules: liteRules.map(r => ({
                 name: r.name,
                 fileType: r.fileType,
-                geoType: r.geoType,
-                // 这里我们简化 Lite 版的 JSON，不放 files 详情，只放概览
-                // 客户端自己拼路径: geo-lite/{geoType}/{name}.srs
+                geoType: r.geoType
             }))
         };
 
-        // 生成 full.json (包含更全的 geo 目录规则)
         const fullOutput = {
             version: newVersion,
             baseUrl: BASE_URL,
