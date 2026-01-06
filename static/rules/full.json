@@ -1,5 +1,5 @@
 {
-  "version": "20260105224704",
+  "version": "20260106224642",
   "baseUrl": "https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing",
   "rules": [
     {
@@ -2074,6 +2074,11 @@
     },
     {
       "name": "category-porn@ads",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "category-proxy-tunnels",
       "fileType": "all",
       "geoType": "site"
     },
@@ -6568,6 +6573,11 @@
       "geoType": "site"
     },
     {
+      "name": "ngrok",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
       "name": "ni",
       "fileType": "all",
       "geoType": "ip"
@@ -7144,6 +7154,11 @@
     },
     {
       "name": "pingcap",
+      "fileType": "all",
+      "geoType": "site"
+    },
+    {
+      "name": "pinggy",
       "fileType": "all",
       "geoType": "site"
     },
