@@ -6,7 +6,7 @@
     {
       "name": "abema",
       "fileType": "all",
-      "geoType": "site"
+      "geoType": "geosite"
     },
     {
       "name": "apple",
@@ -16,12 +16,12 @@
     {
       "name": "applemusic",
       "fileType": "all",
-      "geoType": "site"
+      "geoType": "geosite"
     },
     {
       "name": "bahamut",
       "fileType": "all",
-      "geoType": "site"
+      "geoType": "geosite"
     },
     {
       "name": "bilibili",
@@ -31,7 +31,7 @@
     {
       "name": "biliintl",
       "fileType": "all",
-      "geoType": "site"
+      "geoType": "geosite"
     },
     {
       "name": "cloudflare",
@@ -41,7 +41,7 @@
     {
       "name": "cloudfront",
       "fileType": "all",
-      "geoType": "ip"
+      "geoType": "geoip"
     },
     {
       "name": "cn",
@@ -51,17 +51,17 @@
     {
       "name": "ehentai",
       "fileType": "all",
-      "geoType": "site"
+      "geoType": "geosite"
     },
     {
       "name": "facebook",
       "fileType": "all",
-      "geoType": "ip"
+      "geoType": "geoip"
     },
     {
       "name": "github",
       "fileType": "all",
-      "geoType": "site"
+      "geoType": "geosite"
     },
     {
       "name": "google",
@@ -71,12 +71,12 @@
     {
       "name": "jp",
       "fileType": "all",
-      "geoType": "ip"
+      "geoType": "geoip"
     },
     {
       "name": "microsoft",
       "fileType": "all",
-      "geoType": "site"
+      "geoType": "geosite"
     },
     {
       "name": "netflix",
@@ -86,17 +86,17 @@
     {
       "name": "onedrive",
       "fileType": "all",
-      "geoType": "site"
+      "geoType": "geosite"
     },
     {
       "name": "openai",
       "fileType": "all",
-      "geoType": "site"
+      "geoType": "geosite"
     },
     {
       "name": "pixiv",
       "fileType": "all",
-      "geoType": "site"
+      "geoType": "geosite"
     },
     {
       "name": "private",
@@ -106,17 +106,17 @@
     {
       "name": "proxy",
       "fileType": "all",
-      "geoType": "site"
+      "geoType": "geosite"
     },
     {
       "name": "proxymedia",
       "fileType": "all",
-      "geoType": "site"
+      "geoType": "geosite"
     },
     {
       "name": "spotify",
       "fileType": "all",
-      "geoType": "site"
+      "geoType": "geosite"
     },
     {
       "name": "telegram",
@@ -126,7 +126,7 @@
     {
       "name": "tiktok",
       "fileType": "all",
-      "geoType": "site"
+      "geoType": "geosite"
     },
     {
       "name": "twitter",
@@ -136,7 +136,7 @@
     {
       "name": "youtube",
       "fileType": "all",
-      "geoType": "site"
+      "geoType": "geosite"
     }
   ]
 }
