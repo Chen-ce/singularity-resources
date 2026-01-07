@@ -67,9 +67,9 @@ function resolveFileType(typeSet) {
 }
 
 function resolveGeoType(typeSet) {
-    if (typeSet.has('ip') && typeSet.has('site')) return 'all';
-    if (typeSet.has('ip')) return 'ip';
-    if (typeSet.has('site')) return 'site';
+    if (typeSet.has('geoip') && typeSet.has('geosite')) return 'all';
+    if (typeSet.has('geoip')) return 'geoip';
+    if (typeSet.has('geosite')) return 'geosite';
     return 'all';
 }
 
@@ -112,11 +112,11 @@ function buildRulesIndex(treeItems, prefix) {
 
         let geoType = '';
         if (category.includes('geoip')) {
-            record.geoTypes.add('ip');
-            geoType = 'ip';
+            record.geoTypes.add('geoip');
+            geoType = 'geoip';
         } else if (category.includes('geosite')) {
-            record.geoTypes.add('site');
-            geoType = 'site';
+            record.geoTypes.add('geosite');
+            geoType = 'geosite';
         }
 
         if (geoType) {
