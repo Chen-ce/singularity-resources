@@ -220,7 +220,8 @@ async function main() {
 
         const liteOutput = {
             version: newVersion,
-            baseUrl: BASE_URL, 
+            baseUrl: BASE_URL,
+            fileOnlyAll: liteRules.length > 0 && liteRules.every((r) => r.fileType === 'all'),
             rules: liteRules.map(r => ({
                 name: r.name,
                 fileType: r.fileType,
@@ -231,6 +232,7 @@ async function main() {
         const fullOutput = {
             version: newVersion,
             baseUrl: BASE_URL,
+            fileOnlyAll: fullRules.length > 0 && fullRules.every((r) => r.fileType === 'all'),
             rules: fullRules.map(r => ({
                 name: r.name,
                 fileType: r.fileType,
