@@ -61,9 +61,9 @@ async function fetchJson(url, retries = 3) {
 }
 
 function resolveFileType(typeSet) {
-    if (typeSet.has('srs') && typeSet.has('json')) return 'all';
-    if (typeSet.has('json')) return 'json';
-    return 'srs';
+    if (typeSet.has('binary') && typeSet.has('source')) return 'all';
+    if (typeSet.has('source')) return 'source';
+    return 'binary';
 }
 
 function resolveGeoType(typeSet) {
@@ -89,8 +89,8 @@ function buildRulesIndex(treeItems, prefix) {
         
         // 判断文件类型
         let fileType = '';
-        if (relPath.endsWith('.srs')) fileType = 'srs';
-        else if (relPath.endsWith('.json')) fileType = 'json';
+        if (relPath.endsWith('.srs')) fileType = 'binary';
+        else if (relPath.endsWith('.json')) fileType = 'source';
         else continue;
 
         // 提取名称
