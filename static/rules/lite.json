@@ -1,6 +1,7 @@
 {
   "version": "20260106224642",
   "baseUrl": "https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing",
+  "fileOnlyAll": true,
   "rules": [
     {
       "name": "abema",
