@@ -1,5 +1,5 @@
 {
-  "version": "20260107224618",
+  "version": "20260108224728",
   "baseUrl": "https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing",
   "rawBaseUrl": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing",
   "fileOnlyAll": true,
@@ -1740,6 +1740,11 @@
       "geoType": "geosite"
     },
     {
+      "name": "category-ecommerce-ru",
+      "fileType": "all",
+      "geoType": "geosite"
+    },
+    {
       "name": "category-ecommerce@ads",
       "fileType": "all",
       "geoType": "geosite"
@@ -1806,6 +1811,11 @@
     },
     {
       "name": "category-entertainment-cn@cn",
+      "fileType": "all",
+      "geoType": "geosite"
+    },
+    {
+      "name": "category-entertainment-ru",
       "fileType": "all",
       "geoType": "geosite"
     },
@@ -2106,6 +2116,11 @@
     },
     {
       "name": "category-remote-control@cn",
+      "fileType": "all",
+      "geoType": "geosite"
+    },
+    {
+      "name": "category-retail-ru",
       "fileType": "all",
       "geoType": "geosite"
     },
@@ -6260,6 +6275,11 @@
       "geoType": "geosite"
     },
     {
+      "name": "mosmetro",
+      "fileType": "all",
+      "geoType": "geosite"
+    },
+    {
       "name": "movefree",
       "fileType": "all",
       "geoType": "geosite"
@@ -8631,6 +8651,11 @@
     },
     {
       "name": "teamviewer@cn",
+      "fileType": "all",
+      "geoType": "geosite"
+    },
+    {
+      "name": "technogym",
       "fileType": "all",
       "geoType": "geosite"
     },
