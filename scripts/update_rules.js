@@ -8,6 +8,7 @@ const { execSync } = require('child_process');
 const REPO = 'MetaCubeX/meta-rules-dat';
 const BRANCH = 'sing';
 const BASE_URL = `https://cdn.jsdelivr.net/gh/${REPO}@${BRANCH}`;
+const RAW_BASE_URL = `https://raw.githubusercontent.com/${REPO}/${BRANCH}`;
 const ARCHIVE_URL = `https://github.com/${REPO}/archive/refs/heads/${BRANCH}.zip`;
 
 const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
@@ -221,6 +222,7 @@ async function main() {
         const liteOutput = {
             version: newVersion,
             baseUrl: BASE_URL,
+            rawBaseUrl: RAW_BASE_URL,
             fileOnlyAll: liteRules.length > 0 && liteRules.every((r) => r.fileType === 'all'),
             rules: liteRules.map(r => ({
                 name: r.name,
@@ -232,6 +234,7 @@ async function main() {
         const fullOutput = {
             version: newVersion,
             baseUrl: BASE_URL,
+            rawBaseUrl: RAW_BASE_URL,
             fileOnlyAll: fullRules.length > 0 && fullRules.every((r) => r.fileType === 'all'),
             rules: fullRules.map(r => ({
                 name: r.name,
