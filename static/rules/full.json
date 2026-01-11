@@ -1,5 +1,5 @@
 {
-  "version": "20260110224449",
+  "version": "20260111224453",
   "baseUrl": "https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing",
   "rawBaseUrl": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing",
   "fileOnlyAll": true,
@@ -2286,6 +2286,11 @@
     },
     {
       "name": "cctv",
+      "fileType": "all",
+      "geoType": "geosite"
+    },
+    {
+      "name": "cctv@ads",
       "fileType": "all",
       "geoType": "geosite"
     },
@@ -7130,16 +7135,6 @@
       "geoType": "geosite"
     },
     {
-      "name": "picacg-ads",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "picacg-ads@ads",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
       "name": "picacg@ads",
       "fileType": "all",
       "geoType": "geosite"
@@ -8755,6 +8750,11 @@
       "geoType": "geosite"
     },
     {
+      "name": "tendcloud@ads",
+      "fileType": "all",
+      "geoType": "geosite"
+    },
+    {
       "name": "terabox",
       "fileType": "all",
       "geoType": "geosite"
@@ -10196,16 +10196,6 @@
     },
     {
       "name": "zhihu",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "zhihu-ads",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "zhihu-ads@ads",
       "fileType": "all",
       "geoType": "geosite"
     },
