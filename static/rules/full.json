@@ -1,5 +1,5 @@
 {
-  "version": "20260116224635",
+  "version": "20260117224410",
   "baseUrl": "https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing",
   "rawBaseUrl": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing",
   "fileOnlyAll": true,
@@ -7376,6 +7376,11 @@
     },
     {
       "name": "ptt",
+      "fileType": "all",
+      "geoType": "geosite"
+    },
+    {
+      "name": "pubg",
       "fileType": "all",
       "geoType": "geosite"
     },
