@@ -1,5 +1,5 @@
 {
-  "version": "20260119224636",
+  "version": "20260120224540",
   "baseUrl": "https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing",
   "rawBaseUrl": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing",
   "fileOnlyAll": true,
@@ -1570,11 +1570,6 @@
       "geoType": "geosite"
     },
     {
-      "name": "category-bank-cn@!cn",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
       "name": "category-bank-ir",
       "fileType": "all",
       "geoType": "geosite"
@@ -1705,16 +1700,6 @@
       "geoType": "geosite"
     },
     {
-      "name": "category-dev-cn@!cn",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "category-dev-cn@cn",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
       "name": "category-dev@ads",
       "fileType": "all",
       "geoType": "geosite"
@@ -1796,11 +1781,6 @@
     },
     {
       "name": "category-entertainment-cn",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "category-entertainment-cn@!cn",
       "fileType": "all",
       "geoType": "geosite"
     },
@@ -1895,17 +1875,7 @@
       "geoType": "geosite"
     },
     {
-      "name": "category-games-cn@!cn",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
       "name": "category-games-cn@cn",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "category-games@!cn",
       "fileType": "all",
       "geoType": "geosite"
     },
@@ -2176,11 +2146,6 @@
     },
     {
       "name": "category-social-media-cn",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "category-social-media-cn@!cn",
       "fileType": "all",
       "geoType": "geosite"
     },
@@ -4580,17 +4545,7 @@
       "geoType": "geosite"
     },
     {
-      "name": "huawei-dev@cn",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
       "name": "huawei@!cn",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "huawei@cn",
       "fileType": "all",
       "geoType": "geosite"
     },
@@ -5270,11 +5225,6 @@
       "geoType": "geosite"
     },
     {
-      "name": "kechuang@cn",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
       "name": "keep",
       "fileType": "all",
       "geoType": "geosite"
@@ -5476,11 +5426,6 @@
     },
     {
       "name": "kurogames",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "kurogames@cn",
       "fileType": "all",
       "geoType": "geosite"
     },
@@ -5706,6 +5651,11 @@
     },
     {
       "name": "litv",
+      "fileType": "all",
+      "geoType": "geosite"
+    },
+    {
+      "name": "liveperson",
       "fileType": "all",
       "geoType": "geosite"
     },
@@ -7925,16 +7875,6 @@
       "geoType": "geosite"
     },
     {
-      "name": "sensorsdata-ads",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "sensorsdata-ads@ads",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
       "name": "sentry",
       "fileType": "all",
       "geoType": "geosite"
@@ -8360,6 +8300,11 @@
       "geoType": "geosite"
     },
     {
+      "name": "standardchartered",
+      "fileType": "all",
+      "geoType": "geosite"
+    },
+    {
       "name": "starbucks",
       "fileType": "all",
       "geoType": "geosite"
@@ -8730,11 +8675,6 @@
       "geoType": "geosite"
     },
     {
-      "name": "tencent-dev@cn",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
       "name": "tencent-games",
       "fileType": "all",
       "geoType": "geosite"
@@ -8746,11 +8686,6 @@
     },
     {
       "name": "tencent@ads",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "tencent@cn",
       "fileType": "all",
       "geoType": "geosite"
     },
@@ -9920,6 +9855,11 @@
       "geoType": "geosite"
     },
     {
+      "name": "xiaomi-iot",
+      "fileType": "all",
+      "geoType": "geosite"
+    },
+    {
       "name": "xiaomi@!cn",
       "fileType": "all",
       "geoType": "geosite"
@@ -10071,6 +10011,11 @@
     },
     {
       "name": "youku-ads@ads",
+      "fileType": "all",
+      "geoType": "geosite"
+    },
+    {
+      "name": "youmind",
       "fileType": "all",
       "geoType": "geosite"
     },
