@@ -1,5 +1,5 @@
 {
-  "version": "20260127224701",
+  "version": "20260129225534",
   "baseUrl": "https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing",
   "rawBaseUrl": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing",
   "fileOnlyAll": true,
@@ -191,16 +191,6 @@
     },
     {
       "name": "adblockplus",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "adcolony-ads",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "adcolony-ads@ads",
       "fileType": "all",
       "geoType": "geosite"
     },
@@ -660,16 +650,6 @@
       "geoType": "geosite"
     },
     {
-      "name": "applovin-ads",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "applovin-ads@ads",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
       "name": "applysquare",
       "fileType": "all",
       "geoType": "geosite"
@@ -761,16 +741,6 @@
     },
     {
       "name": "atlassian",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "atom-data-ads",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "atom-data-ads@ads",
       "fileType": "all",
       "geoType": "geosite"
     },
@@ -1206,6 +1176,11 @@
     },
     {
       "name": "boc@!cn",
+      "fileType": "all",
+      "geoType": "geosite"
+    },
+    {
+      "name": "bohemia",
       "fileType": "all",
       "geoType": "geosite"
     },
@@ -3360,16 +3335,6 @@
       "geoType": "geosite"
     },
     {
-      "name": "emogi-ads",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "emogi-ads@ads",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
       "name": "emojipedia",
       "fileType": "all",
       "geoType": "geosite"
@@ -3686,16 +3651,6 @@
     },
     {
       "name": "flowus",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "flurry-ads",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "flurry-ads@ads",
       "fileType": "all",
       "geoType": "geosite"
     },
@@ -4210,16 +4165,6 @@
       "geoType": "geosite"
     },
     {
-      "name": "growingio-ads",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "growingio-ads@ads",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
       "name": "gs",
       "fileType": "all",
       "geoType": "geoip"
@@ -4360,16 +4305,6 @@
       "geoType": "geosite"
     },
     {
-      "name": "hiido-ads",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "hiido-ads@ads",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
       "name": "hikvision",
       "fileType": "all",
       "geoType": "geosite"
@@ -4466,16 +4401,6 @@
     },
     {
       "name": "hooligapps",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "hotjar-ads",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "hotjar-ads@ads",
       "fileType": "all",
       "geoType": "geosite"
     },
@@ -4821,16 +4746,6 @@
     },
     {
       "name": "infrapedia",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "inner-active-ads",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "inner-active-ads@ads",
       "fileType": "all",
       "geoType": "geosite"
     },
@@ -6210,16 +6125,6 @@
       "geoType": "geosite"
     },
     {
-      "name": "mopub-ads",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "mopub-ads@ads",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
       "name": "morisawa",
       "fileType": "all",
       "geoType": "geosite"
@@ -6348,16 +6253,6 @@
       "name": "mx",
       "fileType": "all",
       "geoType": "geoip"
-    },
-    {
-      "name": "mxplayer-ads",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "mxplayer-ads@ads",
-      "fileType": "all",
-      "geoType": "geosite"
     },
     {
       "name": "mxroute",
@@ -6496,16 +6391,6 @@
     },
     {
       "name": "newegg",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "newrelic-ads",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "newrelic-ads@ads",
       "fileType": "all",
       "geoType": "geosite"
     },
@@ -7221,16 +7106,6 @@
     },
     {
       "name": "pocketcasts",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "pocoiq-ads",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "pocoiq-ads@ads",
       "fileType": "all",
       "geoType": "geosite"
     },
@@ -8525,16 +8400,6 @@
       "geoType": "geosite"
     },
     {
-      "name": "tagtic-ads",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "tagtic-ads@ads",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
       "name": "taikang",
       "fileType": "all",
       "geoType": "geosite"
@@ -8551,16 +8416,6 @@
     },
     {
       "name": "taomee",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "tappx-ads",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "tappx-ads@ads",
       "fileType": "all",
       "geoType": "geosite"
     },
@@ -9116,16 +8971,6 @@
     },
     {
       "name": "uber",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "uberads-ads",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "uberads-ads@ads",
       "fileType": "all",
       "geoType": "geosite"
     },
