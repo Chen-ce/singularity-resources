@@ -1,5 +1,5 @@
 {
-  "version": "20260129225534",
+  "version": "20260130225357",
   "baseUrl": "https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing",
   "rawBaseUrl": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing",
   "fileOnlyAll": true,
@@ -220,12 +220,12 @@
       "geoType": "geosite"
     },
     {
-      "name": "adjust-ads",
+      "name": "adjust",
       "fileType": "all",
       "geoType": "geosite"
     },
     {
-      "name": "adjust-ads@ads",
+      "name": "adjust@ads",
       "fileType": "all",
       "geoType": "geosite"
     },
@@ -1675,6 +1675,11 @@
       "geoType": "geosite"
     },
     {
+      "name": "category-dev-cn@ads",
+      "fileType": "all",
+      "geoType": "geosite"
+    },
+    {
       "name": "category-dev@ads",
       "fileType": "all",
       "geoType": "geosite"
@@ -2435,12 +2440,12 @@
       "geoType": "geosite"
     },
     {
-      "name": "clearbit-ads",
+      "name": "clearbit",
       "fileType": "all",
       "geoType": "geosite"
     },
     {
-      "name": "clearbit-ads@ads",
+      "name": "clearbit@ads",
       "fileType": "all",
       "geoType": "geosite"
     },
@@ -6625,12 +6630,12 @@
       "geoType": "geosite"
     },
     {
-      "name": "ogury-ads",
+      "name": "ogury",
       "fileType": "all",
       "geoType": "geosite"
     },
     {
-      "name": "ogury-ads@ads",
+      "name": "ogury@ads",
       "fileType": "all",
       "geoType": "geosite"
     },
@@ -6775,12 +6780,12 @@
       "geoType": "geosite"
     },
     {
-      "name": "openx-ads",
+      "name": "openx",
       "fileType": "all",
       "geoType": "geosite"
     },
     {
-      "name": "openx-ads@ads",
+      "name": "openx@ads",
       "fileType": "all",
       "geoType": "geosite"
     },
@@ -7216,21 +7221,6 @@
     },
     {
       "name": "pubmatic",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "pubmatic-ads",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "pubmatic-ads@ads",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "pubmatic@ads",
       "fileType": "all",
       "geoType": "geosite"
     },
@@ -7735,12 +7725,12 @@
       "geoType": "geosite"
     },
     {
-      "name": "segment-ads",
+      "name": "segment",
       "fileType": "all",
       "geoType": "geosite"
     },
     {
-      "name": "segment-ads@ads",
+      "name": "segment@ads",
       "fileType": "all",
       "geoType": "geosite"
     },
@@ -8305,12 +8295,12 @@
       "geoType": "geosite"
     },
     {
-      "name": "supersonic-ads",
+      "name": "supersonic",
       "fileType": "all",
       "geoType": "geosite"
     },
     {
-      "name": "supersonic-ads@ads",
+      "name": "supersonic@ads",
       "fileType": "all",
       "geoType": "geosite"
     },
@@ -9070,17 +9060,17 @@
       "geoType": "geosite"
     },
     {
-      "name": "unity-ads",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "unity-ads@ads",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
       "name": "unity@ads",
+      "fileType": "all",
+      "geoType": "geosite"
+    },
+    {
+      "name": "unitychina",
+      "fileType": "all",
+      "geoType": "geosite"
+    },
+    {
+      "name": "unitychina@ads",
       "fileType": "all",
       "geoType": "geosite"
     },
