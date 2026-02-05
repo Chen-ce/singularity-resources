@@ -1,84 +1,84 @@
 {
-  "updated_at": "2026-02-01T07:07:21.545Z",
+  "updated_at": "2026-02-05T13:40:19.974Z",
   "stable": {
-    "version": "1.12.19",
-    "tag": "v1.12.19",
+    "version": "1.12.20",
+    "tag": "v1.12.20",
     "downloads": {
       "macos": {
-        "amd64-legacy": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.12.19/core-macos-amd64-legacy.zip",
-        "amd64": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.12.19/core-macos-amd64.zip",
-        "arm64": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.12.19/core-macos-arm64.zip"
+        "amd64-legacy": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.12.20/core-macos-amd64-legacy.zip",
+        "amd64": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.12.20/core-macos-amd64.zip",
+        "arm64": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.12.20/core-macos-arm64.zip"
       },
       "linux": {
-        "386": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.12.19/core-linux-386.zip",
-        "386-softfloat": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.12.19/core-linux-386-softfloat.zip",
-        "amd64": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.12.19/core-linux-amd64.zip",
-        "arm64": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.12.19/core-linux-arm64.zip",
-        "armv5": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.12.19/core-linux-armv5.zip",
-        "armv6": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.12.19/core-linux-armv6.zip",
-        "armv7": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.12.19/core-linux-armv7.zip",
-        "loong64": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.12.19/core-linux-loong64.zip",
-        "mips-softfloat": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.12.19/core-linux-mips-softfloat.zip",
-        "mips64-softfloat": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.12.19/core-linux-mips64-softfloat.zip",
-        "mips64le-softfloat": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.12.19/core-linux-mips64le-softfloat.zip",
-        "mips64le": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.12.19/core-linux-mips64le.zip",
-        "mipsle-softfloat": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.12.19/core-linux-mipsle-softfloat.zip",
-        "mipsle": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.12.19/core-linux-mipsle.zip",
-        "ppc64le": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.12.19/core-linux-ppc64le.zip",
-        "riscv64": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.12.19/core-linux-riscv64.zip",
-        "s390x": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.12.19/core-linux-s390x.zip"
+        "386": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.12.20/core-linux-386.zip",
+        "386-softfloat": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.12.20/core-linux-386-softfloat.zip",
+        "amd64": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.12.20/core-linux-amd64.zip",
+        "arm64": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.12.20/core-linux-arm64.zip",
+        "armv5": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.12.20/core-linux-armv5.zip",
+        "armv6": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.12.20/core-linux-armv6.zip",
+        "armv7": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.12.20/core-linux-armv7.zip",
+        "loong64": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.12.20/core-linux-loong64.zip",
+        "mips-softfloat": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.12.20/core-linux-mips-softfloat.zip",
+        "mips64-softfloat": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.12.20/core-linux-mips64-softfloat.zip",
+        "mips64le-softfloat": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.12.20/core-linux-mips64le-softfloat.zip",
+        "mips64le": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.12.20/core-linux-mips64le.zip",
+        "mipsle-softfloat": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.12.20/core-linux-mipsle-softfloat.zip",
+        "mipsle": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.12.20/core-linux-mipsle.zip",
+        "ppc64le": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.12.20/core-linux-ppc64le.zip",
+        "riscv64": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.12.20/core-linux-riscv64.zip",
+        "s390x": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.12.20/core-linux-s390x.zip"
       },
       "windows": {
-        "386": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.12.19/core-windows-386.zip",
-        "386-legacy": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.12.19/core-windows-386-legacy.zip",
-        "amd64-legacy": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.12.19/core-windows-amd64-legacy.zip",
-        "amd64": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.12.19/core-windows-amd64.zip",
-        "arm64": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.12.19/core-windows-arm64.zip"
+        "386": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.12.20/core-windows-386.zip",
+        "386-legacy": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.12.20/core-windows-386-legacy.zip",
+        "amd64-legacy": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.12.20/core-windows-amd64-legacy.zip",
+        "amd64": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.12.20/core-windows-amd64.zip",
+        "arm64": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.12.20/core-windows-arm64.zip"
       }
     }
   },
   "alpha": {
-    "version": "1.13.0-rc.1",
-    "tag": "v1.13.0-rc.1",
+    "version": "1.13.0-rc.2",
+    "tag": "v1.13.0-rc.2",
     "downloads": {
       "macos": {
-        "amd64-legacy": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.13.0-rc.1/core-macos-amd64-legacy.zip",
-        "amd64": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.13.0-rc.1/core-macos-amd64.zip",
-        "arm64": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.13.0-rc.1/core-macos-arm64.zip"
+        "amd64-legacy": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.13.0-rc.2/core-macos-amd64-legacy.zip",
+        "amd64": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.13.0-rc.2/core-macos-amd64.zip",
+        "arm64": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.13.0-rc.2/core-macos-arm64.zip"
       },
       "linux": {
-        "386": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.13.0-rc.1/core-linux-386.zip",
-        "386-glibc": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.13.0-rc.1/core-linux-386-glibc.zip",
-        "386-musl": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.13.0-rc.1/core-linux-386-musl.zip",
-        "386-softfloat": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.13.0-rc.1/core-linux-386-softfloat.zip",
-        "amd64-glibc": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.13.0-rc.1/core-linux-amd64-glibc.zip",
-        "amd64-musl": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.13.0-rc.1/core-linux-amd64-musl.zip",
-        "amd64": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.13.0-rc.1/core-linux-amd64.zip",
-        "arm64-glibc": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.13.0-rc.1/core-linux-arm64-glibc.zip",
-        "arm64-musl": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.13.0-rc.1/core-linux-arm64-musl.zip",
-        "arm64": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.13.0-rc.1/core-linux-arm64.zip",
-        "armv5": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.13.0-rc.1/core-linux-armv5.zip",
-        "armv6": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.13.0-rc.1/core-linux-armv6.zip",
-        "armv7-glibc": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.13.0-rc.1/core-linux-armv7-glibc.zip",
-        "armv7-musl": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.13.0-rc.1/core-linux-armv7-musl.zip",
-        "armv7": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.13.0-rc.1/core-linux-armv7.zip",
-        "loong64": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.13.0-rc.1/core-linux-loong64.zip",
-        "mips-softfloat": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.13.0-rc.1/core-linux-mips-softfloat.zip",
-        "mips64-softfloat": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.13.0-rc.1/core-linux-mips64-softfloat.zip",
-        "mips64le-softfloat": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.13.0-rc.1/core-linux-mips64le-softfloat.zip",
-        "mips64le": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.13.0-rc.1/core-linux-mips64le.zip",
-        "mipsle-softfloat": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.13.0-rc.1/core-linux-mipsle-softfloat.zip",
-        "mipsle": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.13.0-rc.1/core-linux-mipsle.zip",
-        "ppc64le": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.13.0-rc.1/core-linux-ppc64le.zip",
-        "riscv64": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.13.0-rc.1/core-linux-riscv64.zip",
-        "s390x": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.13.0-rc.1/core-linux-s390x.zip"
+        "386": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.13.0-rc.2/core-linux-386.zip",
+        "386-glibc": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.13.0-rc.2/core-linux-386-glibc.zip",
+        "386-musl": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.13.0-rc.2/core-linux-386-musl.zip",
+        "386-softfloat": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.13.0-rc.2/core-linux-386-softfloat.zip",
+        "amd64-glibc": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.13.0-rc.2/core-linux-amd64-glibc.zip",
+        "amd64-musl": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.13.0-rc.2/core-linux-amd64-musl.zip",
+        "amd64": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.13.0-rc.2/core-linux-amd64.zip",
+        "arm64-glibc": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.13.0-rc.2/core-linux-arm64-glibc.zip",
+        "arm64-musl": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.13.0-rc.2/core-linux-arm64-musl.zip",
+        "arm64": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.13.0-rc.2/core-linux-arm64.zip",
+        "armv5": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.13.0-rc.2/core-linux-armv5.zip",
+        "armv6": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.13.0-rc.2/core-linux-armv6.zip",
+        "armv7-glibc": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.13.0-rc.2/core-linux-armv7-glibc.zip",
+        "armv7-musl": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.13.0-rc.2/core-linux-armv7-musl.zip",
+        "armv7": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.13.0-rc.2/core-linux-armv7.zip",
+        "loong64": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.13.0-rc.2/core-linux-loong64.zip",
+        "mips-softfloat": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.13.0-rc.2/core-linux-mips-softfloat.zip",
+        "mips64-softfloat": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.13.0-rc.2/core-linux-mips64-softfloat.zip",
+        "mips64le-softfloat": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.13.0-rc.2/core-linux-mips64le-softfloat.zip",
+        "mips64le": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.13.0-rc.2/core-linux-mips64le.zip",
+        "mipsle-softfloat": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.13.0-rc.2/core-linux-mipsle-softfloat.zip",
+        "mipsle": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.13.0-rc.2/core-linux-mipsle.zip",
+        "ppc64le": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.13.0-rc.2/core-linux-ppc64le.zip",
+        "riscv64": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.13.0-rc.2/core-linux-riscv64.zip",
+        "s390x": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.13.0-rc.2/core-linux-s390x.zip"
       },
       "windows": {
-        "386": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.13.0-rc.1/core-windows-386.zip",
-        "386-legacy": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.13.0-rc.1/core-windows-386-legacy.zip",
-        "amd64-legacy": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.13.0-rc.1/core-windows-amd64-legacy.zip",
-        "amd64": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.13.0-rc.1/core-windows-amd64.zip",
-        "arm64": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.13.0-rc.1/core-windows-arm64.zip"
+        "386": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.13.0-rc.2/core-windows-386.zip",
+        "386-legacy": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.13.0-rc.2/core-windows-386-legacy.zip",
+        "amd64-legacy": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.13.0-rc.2/core-windows-amd64-legacy.zip",
+        "amd64": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.13.0-rc.2/core-windows-amd64.zip",
+        "arm64": "https://github.com/Chen-ce/singularity-resources/releases/download/v1.13.0-rc.2/core-windows-arm64.zip"
       }
     }
   }
