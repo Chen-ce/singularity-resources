@@ -1,5 +1,5 @@
 {
-  "version": "20260206225120",
+  "version": "20260207225453",
   "baseUrl": "https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing",
   "rawBaseUrl": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing",
   "fileOnlyAll": true,
@@ -771,6 +771,11 @@
     },
     {
       "name": "avaxhome",
+      "fileType": "all",
+      "geoType": "geosite"
+    },
+    {
+      "name": "aviasales",
       "fileType": "all",
       "geoType": "geosite"
     },
@@ -4285,6 +4290,11 @@
       "geoType": "geosite"
     },
     {
+      "name": "hdrezka",
+      "fileType": "all",
+      "geoType": "geosite"
+    },
+    {
       "name": "hentaichen",
       "fileType": "all",
       "geoType": "geosite"
@@ -5256,6 +5266,11 @@
     },
     {
       "name": "kodi",
+      "fileType": "all",
+      "geoType": "geosite"
+    },
+    {
+      "name": "kodik",
       "fileType": "all",
       "geoType": "geosite"
     },
@@ -6391,6 +6406,11 @@
     },
     {
       "name": "netease-ads@ads",
+      "fileType": "all",
+      "geoType": "geosite"
+    },
+    {
+      "name": "netease@!cn",
       "fileType": "all",
       "geoType": "geosite"
     },
@@ -9526,6 +9546,11 @@
     },
     {
       "name": "win-update",
+      "fileType": "all",
+      "geoType": "geosite"
+    },
+    {
+      "name": "windsurf",
       "fileType": "all",
       "geoType": "geosite"
     },
