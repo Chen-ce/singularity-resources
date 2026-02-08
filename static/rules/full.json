@@ -1,5 +1,5 @@
 {
-  "version": "20260207225453",
+  "version": "20260208225651",
   "baseUrl": "https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing",
   "rawBaseUrl": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing",
   "fileOnlyAll": true,
@@ -3788,6 +3788,11 @@
       "name": "ga",
       "fileType": "all",
       "geoType": "geoip"
+    },
+    {
+      "name": "gaijin",
+      "fileType": "all",
+      "geoType": "geosite"
     },
     {
       "name": "gamersky",
@@ -8450,6 +8455,11 @@
       "geoType": "geosite"
     },
     {
+      "name": "take-two",
+      "fileType": "all",
+      "geoType": "geosite"
+    },
+    {
       "name": "talkatone",
       "fileType": "all",
       "geoType": "geosite"
@@ -10123,6 +10133,11 @@
       "name": "zw",
       "fileType": "all",
       "geoType": "geoip"
+    },
+    {
+      "name": "zynga",
+      "fileType": "all",
+      "geoType": "geosite"
     }
   ]
 }
