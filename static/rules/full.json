@@ -1,5 +1,5 @@
 {
-  "version": "20260209230608",
+  "version": "20260210230852",
   "baseUrl": "https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing",
   "rawBaseUrl": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing",
   "fileOnlyAll": true,
@@ -155,16 +155,6 @@
       "geoType": "geosite"
     },
     {
-      "name": "acfun-ads",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "acfun-ads@ads",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
       "name": "acfun@ads",
       "fileType": "all",
       "geoType": "geosite"
@@ -236,16 +226,6 @@
     },
     {
       "name": "adobe-activation",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "adobe-ads",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "adobe-ads@ads",
       "fileType": "all",
       "geoType": "geosite"
     },
@@ -365,16 +345,6 @@
       "geoType": "geosite"
     },
     {
-      "name": "alibaba-ads",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "alibaba-ads@ads",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
       "name": "alibaba@!cn",
       "fileType": "all",
       "geoType": "geosite"
@@ -410,6 +380,11 @@
       "geoType": "geosite"
     },
     {
+      "name": "aliyun@ads",
+      "fileType": "all",
+      "geoType": "geosite"
+    },
+    {
       "name": "aljazeera",
       "fileType": "all",
       "geoType": "geosite"
@@ -425,32 +400,12 @@
       "geoType": "geosite"
     },
     {
-      "name": "amap-ads",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "amap-ads@ads",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
       "name": "amap@ads",
       "fileType": "all",
       "geoType": "geosite"
     },
     {
       "name": "amazon",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "amazon-ads",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "amazon-ads@ads",
       "fileType": "all",
       "geoType": "geosite"
     },
@@ -581,16 +536,6 @@
     },
     {
       "name": "apple",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "apple-ads",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "apple-ads@ads",
       "fileType": "all",
       "geoType": "geosite"
     },
@@ -856,16 +801,6 @@
     },
     {
       "name": "baidu",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "baidu-ads",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "baidu-ads@ads",
       "fileType": "all",
       "geoType": "geosite"
     },
@@ -1355,17 +1290,12 @@
       "geoType": "geosite"
     },
     {
-      "name": "bytedance-ads",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "bytedance-ads@ads",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
       "name": "bytedance-ai-!cn",
+      "fileType": "all",
+      "geoType": "geosite"
+    },
+    {
+      "name": "bytedance-ai-!cn@!cn",
       "fileType": "all",
       "geoType": "geosite"
     },
@@ -1401,6 +1331,11 @@
     },
     {
       "name": "cainiao",
+      "fileType": "all",
+      "geoType": "geosite"
+    },
+    {
+      "name": "cainiao@ads",
       "fileType": "all",
       "geoType": "geosite"
     },
@@ -1480,7 +1415,17 @@
       "geoType": "geosite"
     },
     {
+      "name": "category-ads-all@!cn",
+      "fileType": "all",
+      "geoType": "geosite"
+    },
+    {
       "name": "category-ads-all@ads",
+      "fileType": "all",
+      "geoType": "geosite"
+    },
+    {
+      "name": "category-ads-all@cn",
       "fileType": "all",
       "geoType": "geosite"
     },
@@ -1490,12 +1435,27 @@
       "geoType": "geosite"
     },
     {
+      "name": "category-ads@!cn",
+      "fileType": "all",
+      "geoType": "geosite"
+    },
+    {
       "name": "category-ads@ads",
       "fileType": "all",
       "geoType": "geosite"
     },
     {
+      "name": "category-ads@cn",
+      "fileType": "all",
+      "geoType": "geosite"
+    },
+    {
       "name": "category-ai-!cn",
+      "fileType": "all",
+      "geoType": "geosite"
+    },
+    {
+      "name": "category-ai-!cn@!cn",
       "fileType": "all",
       "geoType": "geosite"
     },
@@ -1506,6 +1466,11 @@
     },
     {
       "name": "category-ai-chat-!cn",
+      "fileType": "all",
+      "geoType": "geosite"
+    },
+    {
+      "name": "category-ai-chat-!cn@!cn",
       "fileType": "all",
       "geoType": "geosite"
     },
@@ -1850,6 +1815,11 @@
       "geoType": "geosite"
     },
     {
+      "name": "category-games-!cn@ads",
+      "fileType": "all",
+      "geoType": "geosite"
+    },
+    {
       "name": "category-games-!cn@cn",
       "fileType": "all",
       "geoType": "geosite"
@@ -1860,7 +1830,17 @@
       "geoType": "geosite"
     },
     {
+      "name": "category-games-cn@ads",
+      "fileType": "all",
+      "geoType": "geosite"
+    },
+    {
       "name": "category-games-cn@cn",
+      "fileType": "all",
+      "geoType": "geosite"
+    },
+    {
+      "name": "category-games@ads",
       "fileType": "all",
       "geoType": "geosite"
     },
@@ -1916,6 +1896,11 @@
     },
     {
       "name": "category-logistics-cn",
+      "fileType": "all",
+      "geoType": "geosite"
+    },
+    {
+      "name": "category-logistics-cn@ads",
       "fileType": "all",
       "geoType": "geosite"
     },
@@ -3045,16 +3030,6 @@
       "geoType": "geosite"
     },
     {
-      "name": "dmm-ads",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "dmm-ads@ads",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
       "name": "dmm-porn",
       "fileType": "all",
       "geoType": "geosite"
@@ -3096,6 +3071,11 @@
     },
     {
       "name": "dola",
+      "fileType": "all",
+      "geoType": "geosite"
+    },
+    {
+      "name": "dola@!cn",
       "fileType": "all",
       "geoType": "geosite"
     },
@@ -3166,16 +3146,6 @@
     },
     {
       "name": "duolingo",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "duolingo-ads",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "duolingo-ads@ads",
       "fileType": "all",
       "geoType": "geosite"
     },
@@ -3321,6 +3291,11 @@
     },
     {
       "name": "eleme",
+      "fileType": "all",
+      "geoType": "geosite"
+    },
+    {
+      "name": "eleme@ads",
       "fileType": "all",
       "geoType": "geosite"
     },
@@ -3475,17 +3450,12 @@
       "geoType": "all"
     },
     {
-      "name": "facebook-ads",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "facebook-ads@ads",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
       "name": "facebook-dev",
+      "fileType": "all",
+      "geoType": "geosite"
+    },
+    {
+      "name": "facebook@ads",
       "fileType": "all",
       "geoType": "geosite"
     },
@@ -3730,16 +3700,6 @@
       "geoType": "geosite"
     },
     {
-      "name": "fqnovel-ads",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "fqnovel-ads@ads",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
       "name": "fqnovel@ads",
       "fileType": "all",
       "geoType": "geosite"
@@ -3955,16 +3915,6 @@
       "geoType": "geosite"
     },
     {
-      "name": "github-ads",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "github-ads@ads",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
       "name": "github-copilot",
       "fileType": "all",
       "geoType": "geosite"
@@ -4058,16 +4008,6 @@
       "name": "google",
       "fileType": "all",
       "geoType": "all"
-    },
-    {
-      "name": "google-ads",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "google-ads@ads",
-      "fileType": "all",
-      "geoType": "geosite"
     },
     {
       "name": "google-cn",
@@ -4450,6 +4390,11 @@
       "geoType": "geosite"
     },
     {
+      "name": "hoyoverse@ads",
+      "fileType": "all",
+      "geoType": "geosite"
+    },
+    {
       "name": "hp",
       "fileType": "all",
       "geoType": "geosite"
@@ -4556,16 +4501,6 @@
     },
     {
       "name": "hunantv",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "hunantv-ads",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "hunantv-ads@ads",
       "fileType": "all",
       "geoType": "geosite"
     },
@@ -4805,16 +4740,6 @@
       "geoType": "geosite"
     },
     {
-      "name": "instagram-ads",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "instagram-ads@ads",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
       "name": "instagram@ads",
       "fileType": "all",
       "geoType": "geosite"
@@ -4876,16 +4801,6 @@
     },
     {
       "name": "iqiyi",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "iqiyi-ads",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "iqiyi-ads@ads",
       "fileType": "all",
       "geoType": "geosite"
     },
@@ -4991,16 +4906,6 @@
     },
     {
       "name": "jd",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "jd-ads",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "jd-ads@ads",
       "fileType": "all",
       "geoType": "geosite"
     },
@@ -5330,16 +5235,6 @@
       "geoType": "geosite"
     },
     {
-      "name": "kuaishou-ads",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "kuaishou-ads@ads",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
       "name": "kuaishou@ads",
       "fileType": "all",
       "geoType": "geosite"
@@ -5366,16 +5261,6 @@
     },
     {
       "name": "kugou",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "kugou-ads",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "kugou-ads@ads",
       "fileType": "all",
       "geoType": "geosite"
     },
@@ -5506,16 +5391,6 @@
     },
     {
       "name": "letsencrypt",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "letv-ads",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "letv-ads@ads",
       "fileType": "all",
       "geoType": "geosite"
     },
@@ -5915,16 +5790,6 @@
       "geoType": "geosite"
     },
     {
-      "name": "meta-ads",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "meta-ads@ads",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
       "name": "meta@ads",
       "fileType": "all",
       "geoType": "geosite"
@@ -5970,16 +5835,6 @@
       "geoType": "geosite"
     },
     {
-      "name": "microsoft-ads",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "microsoft-ads@ads",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
       "name": "microsoft-dev",
       "fileType": "all",
       "geoType": "geosite"
@@ -6020,17 +5875,12 @@
       "geoType": "geosite"
     },
     {
-      "name": "mihoyo-ads",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "mihoyo-ads@ads",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
       "name": "mihoyo-cn",
+      "fileType": "all",
+      "geoType": "geosite"
+    },
+    {
+      "name": "mihoyo-cn@ads",
       "fileType": "all",
       "geoType": "geosite"
     },
@@ -6250,6 +6100,11 @@
       "geoType": "geosite"
     },
     {
+      "name": "msn@ads",
+      "fileType": "all",
+      "geoType": "geosite"
+    },
+    {
       "name": "msn@cn",
       "fileType": "all",
       "geoType": "geosite"
@@ -6406,16 +6261,6 @@
     },
     {
       "name": "netease",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "netease-ads",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "netease-ads@ads",
       "fileType": "all",
       "geoType": "geosite"
     },
@@ -6761,16 +6606,6 @@
     },
     {
       "name": "ookla-speedtest",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "ookla-speedtest-ads",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "ookla-speedtest-ads@ads",
       "fileType": "all",
       "geoType": "geosite"
     },
@@ -7335,16 +7170,6 @@
       "geoType": "geosite"
     },
     {
-      "name": "qihoo360-ads",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "qihoo360-ads@ads",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
       "name": "qihoo360@ads",
       "fileType": "all",
       "geoType": "geosite"
@@ -7900,16 +7725,6 @@
       "geoType": "geosite"
     },
     {
-      "name": "sina-ads",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "sina-ads@ads",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
       "name": "sina@!cn",
       "fileType": "all",
       "geoType": "geosite"
@@ -8060,17 +7875,12 @@
       "geoType": "geosite"
     },
     {
+      "name": "sogou@ads",
+      "fileType": "all",
+      "geoType": "geosite"
+    },
+    {
       "name": "sohu",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "sohu-ads",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "sohu-ads@ads",
       "fileType": "all",
       "geoType": "geosite"
     },
@@ -8155,12 +7965,7 @@
       "geoType": "geosite"
     },
     {
-      "name": "spotify-ads",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "spotify-ads@ads",
+      "name": "spotify@ads",
       "fileType": "all",
       "geoType": "geosite"
     },
@@ -8505,6 +8310,11 @@
       "geoType": "geosite"
     },
     {
+      "name": "tcl@ads",
+      "fileType": "all",
+      "geoType": "geosite"
+    },
+    {
       "name": "td",
       "fileType": "all",
       "geoType": "geoip"
@@ -8555,16 +8365,6 @@
       "geoType": "geosite"
     },
     {
-      "name": "television-ads",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "television-ads@ads",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
       "name": "temp-mail",
       "fileType": "all",
       "geoType": "geosite"
@@ -8575,17 +8375,12 @@
       "geoType": "geosite"
     },
     {
-      "name": "tencent-ads",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "tencent-ads@ads",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
       "name": "tencent-dev",
+      "fileType": "all",
+      "geoType": "geosite"
+    },
+    {
+      "name": "tencent-dev@ads",
       "fileType": "all",
       "geoType": "geosite"
     },
@@ -8766,6 +8561,11 @@
     },
     {
       "name": "tiktok@!cn",
+      "fileType": "all",
+      "geoType": "geosite"
+    },
+    {
+      "name": "tiktok@ads",
       "fileType": "all",
       "geoType": "geosite"
     },
@@ -9065,6 +8865,11 @@
       "geoType": "geosite"
     },
     {
+      "name": "uc@ads",
+      "fileType": "all",
+      "geoType": "geosite"
+    },
+    {
       "name": "ucloud",
       "fileType": "all",
       "geoType": "geosite"
@@ -9096,16 +8901,6 @@
     },
     {
       "name": "umeng",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "umeng-ads",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "umeng-ads@ads",
       "fileType": "all",
       "geoType": "geosite"
     },
@@ -9475,6 +9270,11 @@
       "geoType": "geosite"
     },
     {
+      "name": "webnovel@!cn",
+      "fileType": "all",
+      "geoType": "geosite"
+    },
+    {
       "name": "webtype",
       "fileType": "all",
       "geoType": "geosite"
@@ -9506,16 +9306,6 @@
     },
     {
       "name": "whatsapp",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "whatsapp-ads",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "whatsapp-ads@ads",
       "fileType": "all",
       "geoType": "geosite"
     },
@@ -9720,16 +9510,6 @@
       "geoType": "geosite"
     },
     {
-      "name": "xhamster-ads",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "xhamster-ads@ads",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
       "name": "xhamster@ads",
       "fileType": "all",
       "geoType": "geosite"
@@ -9746,16 +9526,6 @@
     },
     {
       "name": "xiaomi",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "xiaomi-ads",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "xiaomi-ads@ads",
       "fileType": "all",
       "geoType": "geosite"
     },
@@ -9790,12 +9560,7 @@
       "geoType": "geosite"
     },
     {
-      "name": "ximalaya-ads",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "ximalaya-ads@ads",
+      "name": "ximalaya@ads",
       "fileType": "all",
       "geoType": "geosite"
     },
@@ -9841,16 +9606,6 @@
     },
     {
       "name": "yahoo",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "yahoo-ads",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "yahoo-ads@ads",
       "fileType": "all",
       "geoType": "geosite"
     },
@@ -9915,12 +9670,7 @@
       "geoType": "geosite"
     },
     {
-      "name": "youku-ads",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "youku-ads@ads",
+      "name": "youku@ads",
       "fileType": "all",
       "geoType": "geosite"
     },
@@ -9941,6 +9691,11 @@
     },
     {
       "name": "youtube",
+      "fileType": "all",
+      "geoType": "geosite"
+    },
+    {
+      "name": "youtube@ads",
       "fileType": "all",
       "geoType": "geosite"
     },
@@ -9976,6 +9731,11 @@
     },
     {
       "name": "yuewen",
+      "fileType": "all",
+      "geoType": "geosite"
+    },
+    {
+      "name": "yuewen@!cn",
       "fileType": "all",
       "geoType": "geosite"
     },
@@ -10116,16 +9876,6 @@
     },
     {
       "name": "zuoyebang",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "zuoyebang-ads",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "zuoyebang-ads@ads",
       "fileType": "all",
       "geoType": "geosite"
     },
