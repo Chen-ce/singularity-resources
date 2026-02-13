@@ -1,5 +1,5 @@
 {
-  "version": "20260212225815",
+  "version": "20260213230113",
   "baseUrl": "https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing",
   "rawBaseUrl": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing",
   "fileOnlyAll": true,
@@ -4106,6 +4106,11 @@
     },
     {
       "name": "gracg",
+      "fileType": "all",
+      "geoType": "geosite"
+    },
+    {
+      "name": "grapheneos",
       "fileType": "all",
       "geoType": "geosite"
     },
@@ -9521,6 +9526,11 @@
     },
     {
       "name": "xiaohongshu",
+      "fileType": "all",
+      "geoType": "geosite"
+    },
+    {
+      "name": "xiaohongshu@!cn",
       "fileType": "all",
       "geoType": "geosite"
     },
