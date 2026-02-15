@@ -1,5 +1,5 @@
 {
-  "version": "20260214225216",
+  "version": "20260215225230",
   "baseUrl": "https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing",
   "rawBaseUrl": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing",
   "fileOnlyAll": true,
@@ -31,6 +31,11 @@
     },
     {
       "name": "2ch",
+      "fileType": "all",
+      "geoType": "geosite"
+    },
+    {
+      "name": "2gis",
       "fileType": "all",
       "geoType": "geosite"
     },
@@ -291,6 +296,11 @@
     },
     {
       "name": "aiqicha",
+      "fileType": "all",
+      "geoType": "geosite"
+    },
+    {
+      "name": "airbnb",
       "fileType": "all",
       "geoType": "geosite"
     },
