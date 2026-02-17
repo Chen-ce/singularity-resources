@@ -1,5 +1,5 @@
 {
-  "version": "20260216225734",
+  "version": "20260217225855",
   "baseUrl": "https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing",
   "rawBaseUrl": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing",
   "fileOnlyAll": true,
@@ -481,6 +481,16 @@
     },
     {
       "name": "anime",
+      "fileType": "all",
+      "geoType": "geosite"
+    },
+    {
+      "name": "anker",
+      "fileType": "all",
+      "geoType": "geosite"
+    },
+    {
+      "name": "anker@!cn",
       "fileType": "all",
       "geoType": "geosite"
     },
@@ -8620,6 +8630,11 @@
       "geoType": "geosite"
     },
     {
+      "name": "tld-ru",
+      "fileType": "all",
+      "geoType": "geosite"
+    },
+    {
       "name": "tm",
       "fileType": "all",
       "geoType": "geoip"
@@ -9680,6 +9695,16 @@
       "geoType": "geosite"
     },
     {
+      "name": "yostar",
+      "fileType": "all",
+      "geoType": "geosite"
+    },
+    {
+      "name": "yostar@cn",
+      "fileType": "all",
+      "geoType": "geosite"
+    },
+    {
       "name": "youjizz",
       "fileType": "all",
       "geoType": "geosite"
@@ -9881,6 +9906,11 @@
     },
     {
       "name": "zotero",
+      "fileType": "all",
+      "geoType": "geosite"
+    },
+    {
+      "name": "zscaler",
       "fileType": "all",
       "geoType": "geosite"
     },
