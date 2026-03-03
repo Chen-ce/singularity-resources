@@ -1,5 +1,5 @@
 {
-  "version": "20260302225530",
+  "version": "20260303225443",
   "baseUrl": "https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing",
   "rawBaseUrl": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing",
   "fileOnlyAll": true,
@@ -2201,6 +2201,11 @@
     },
     {
       "name": "category-travel-ru",
+      "fileType": "all",
+      "geoType": "geosite"
+    },
+    {
+      "name": "category-urlshortner",
       "fileType": "all",
       "geoType": "geosite"
     },
@@ -4678,6 +4683,11 @@
       "name": "il",
       "fileType": "all",
       "geoType": "geoip"
+    },
+    {
+      "name": "illgames",
+      "fileType": "all",
+      "geoType": "geosite"
     },
     {
       "name": "illusion",
