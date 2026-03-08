@@ -1,5 +1,5 @@
 {
-  "version": "20260307224902",
+  "version": "20260308225010",
   "baseUrl": "https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing",
   "rawBaseUrl": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing",
   "fileOnlyAll": true,
@@ -3085,16 +3085,6 @@
       "geoType": "geoip"
     },
     {
-      "name": "doc88",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "docin",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
       "name": "docker",
       "fileType": "all",
       "geoType": "geosite"
@@ -5225,11 +5215,6 @@
       "geoType": "geoip"
     },
     {
-      "name": "knovel",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
       "name": "kodi",
       "fileType": "all",
       "geoType": "geosite"
@@ -6455,11 +6440,6 @@
       "geoType": "geosite"
     },
     {
-      "name": "nixos",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
       "name": "nl",
       "fileType": "all",
       "geoType": "geoip"
@@ -6771,11 +6751,6 @@
     },
     {
       "name": "oschina",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "osdn",
       "fileType": "all",
       "geoType": "geosite"
     },
@@ -7200,11 +7175,6 @@
       "geoType": "geosite"
     },
     {
-      "name": "python-community",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
       "name": "qa",
       "fileType": "all",
       "geoType": "geoip"
@@ -7411,11 +7381,6 @@
     },
     {
       "name": "redtube",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "remirepo",
       "fileType": "all",
       "geoType": "geosite"
     },
@@ -8720,11 +8685,6 @@
       "geoType": "geosite"
     },
     {
-      "name": "topcoder",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
       "name": "tor",
       "fileType": "all",
       "geoType": "all"
@@ -9136,11 +9096,6 @@
     },
     {
       "name": "vilavpn",
-      "fileType": "all",
-      "geoType": "geosite"
-    },
-    {
-      "name": "vim",
       "fileType": "all",
       "geoType": "geosite"
     },
