@@ -1,5 +1,5 @@
 {
-  "version": "20260308225010",
+  "version": "20260309225519",
   "baseUrl": "https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing",
   "rawBaseUrl": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing",
   "fileOnlyAll": true,
@@ -1906,6 +1906,16 @@
     },
     {
       "name": "category-ip-geo-detect",
+      "fileType": "all",
+      "geoType": "geosite"
+    },
+    {
+      "name": "category-ip-geo-detect@!cn",
+      "fileType": "all",
+      "geoType": "geosite"
+    },
+    {
+      "name": "category-ip-geo-detect@cn",
       "fileType": "all",
       "geoType": "geosite"
     },
